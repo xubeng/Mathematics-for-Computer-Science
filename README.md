@@ -1,2 +1,2 @@
-# Mathematics-for-Computer-Science
-msc20180606
+# Initial page
+
