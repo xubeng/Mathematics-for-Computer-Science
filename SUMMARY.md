@@ -1,6 +1,6 @@
 # Table of contents
 
-* [目录](README.md)
+* [README](README.md)
 * [Untitled](untitled.md)
 
 ## 摘要
