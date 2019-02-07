@@ -31,6 +31,12 @@ Albert R Meyer  Department of Electrical Engineering and Computer Science and th
 The online question system which interleaves questions with lecture videos is now available on OCW for Spring '15, and online solutions are built in:[http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
 
   
-A few further solns are avail at [http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2010](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2010).  
+A few further solns are avail at [http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2010](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2010).
+
+## 三、翻译项目维护
+
+翻译项目的Github地址：[https://github.com/xubeng/Mathematics-for-Computer-Science](https://github.com/xubeng/Mathematics-for-Computer-Science)
+
+建议或者问题提出可以去Github。  
 
 
