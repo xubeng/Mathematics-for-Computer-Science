@@ -37,6 +37,8 @@ A few further solns are avail at [http://ocw.mit.edu/courses/electrical-engineer
 
 翻译项目的Github地址：[https://github.com/xubeng/Mathematics-for-Computer-Science](https://github.com/xubeng/Mathematics-for-Computer-Science)
 
+暂时没有想到好的名字，姑且翻译为：《计算机科学与数学》。
+
 建议或者问题提出可以去Github。  
 
 
