@@ -9,6 +9,6 @@
 
 ## 第一部分：证明 <a id="zheng-ming"></a>
 
-* [前言](zheng-ming/di-yi-zhang-shen-me-shi-zheng-ming.md)
+* [前言](zheng-ming/introduction.md)
 * [第一章：什么是证明？](zheng-ming/what-is-a-proof.md)
 
