@@ -2,10 +2,10 @@
 
 * [README](README.md)
 
-## 摘要
+## 摘要 <a id="abstract"></a>
 
-* [译者前言](zhai-yao/my-idea.md)
-* [目录](zhai-yao/contents.md)
+* [译者前言](abstract/my-idea.md)
+* [目录](abstract/contents.md)
 
 ## 第一部分：证明 <a id="proofs"></a>
 
