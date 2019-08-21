@@ -9,6 +9,7 @@
 
 ## 第一部分：证明 <a id="proofs"></a>
 
+* [0.1 引用](proofs/0.1-references.md)
 * [前言](proofs/introduction.md)
 * [第一章  什么是证明 ？](proofs/1-what-is-a-proof.md)
 * [第二章  良序原理](proofs/2-the-well-ordering-principle.md)
@@ -18,4 +19,5 @@
 * [第六章 状态机](proofs/6-state-machines.md)
 * [第七章 递归数据类型](proofs/7-recursive-data-types.md)
 * [第八章 无限集合](proofs/8-infinite-sets.md)
+* [参考文献](proofs/bibliography.md)
 
