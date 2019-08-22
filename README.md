@@ -44,5 +44,3 @@ A few further solns are avail at [http://ocw.mit.edu/courses/electrical-engineer
 
 **注：本翻译页数并没有和原文对应，是根据翻译后的中文内容长度自行进行分页。**
 
-\*\*\*\*
-
