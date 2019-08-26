@@ -20,9 +20,7 @@ _每个大于2的偶数是两个质数的和。_
 
 对于计算机科学家而言，一些最重要的需要去证明的事情是程序和系统的正确性——一个程序或者系统是否做它应该做的。众所周知，程序是任意出问题的，有一个茁壮成长的社区，研究者和实践者努力去证明程序的正确性。这些努力在证明CPU芯片的例子已经足够成功，现在这些努力的成果例行地被主要芯片制造商用来证明芯片的正确性并避免一些臭名昭著的、过去犯过的错误。
 
-发展数学方法去验证程序和系统仍然是一个活跃的研究领域。我们将在第五章阐述这些方法中的部分。
-
-Developing mathematical methods to verify programs and systems remains an active research area. We’ll illustrate some of these methods in Chapter 5.
+发展数学方法去验证程序和系统仍然是一个活跃的研究领域。我们将在[第五章](https://finit-xu.gitbook.io/msc20180606/proofs/5-induction)阐述这些方法中的部分。
 
 > $$^3$$ 四色定理的证明的故事在一本备受好评的（非技术性的）畅销书中被讲述：“Four Colors Suffice. How the Map Problem was Solved.” Robin Wilson. Princeton Univ. Press, 2003, 276pp. ISBN 0-691-11533-8.
 >
