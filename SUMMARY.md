@@ -10,7 +10,7 @@
 ## 第一部分：证明 <a id="proofs"></a>
 
 * [0.1 引用](proofs/0.1-references.md)
-* [前言](proofs/introduction.md)
+* [第一部分的前言](proofs/introduction.md)
 * [第一章  什么是证明 ？](proofs/1-what-is-a-proof/README.md)
   * [1.1 命题](proofs/1-what-is-a-proof/1.1-propositions/README.md)
     * [第一页](proofs/1-what-is-a-proof/1.1-propositions/page1.md)
