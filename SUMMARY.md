@@ -15,6 +15,7 @@
   * [1.1 命题](proofs/1-what-is-a-proof/1.1-propositions/README.md)
     * [第一页](proofs/1-what-is-a-proof/1.1-propositions/page1.md)
     * [第二页](proofs/1-what-is-a-proof/1.1-propositions/page2.md)
+  * [1.2 谓词](proofs/1-what-is-a-proof/1.2-predicates.md)
   * [第一部分第一章节的题目](proofs/1-what-is-a-proof/problems-for-section-1.1.md)
 * [第二章  良序原理](proofs/2-the-well-ordering-principle.md)
 * [第三章  逻辑式](proofs/3-logical-formulas.md)
