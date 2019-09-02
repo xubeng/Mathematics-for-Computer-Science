@@ -22,6 +22,7 @@
     * [1.4.2 证明模式](proofs/1-what-is-a-proof/1.4-our-axioms/1.4.2-patterns-of-proof.md)
   * [1.5 证明一个蕴含式](proofs/1-what-is-a-proof/1.5-proving-an-implication/README.md)
     * [1.5.1 方法一](proofs/1-what-is-a-proof/1.5-proving-an-implication/1.5.1-method-1.md)
+    * [1.5.2 方法二  证明逆否命题](proofs/1-what-is-a-proof/1.5-proving-an-implication/1.5.2-method-2-prove-the-contrapositive.md)
   * [第一部分第一章节的题目](proofs/1-what-is-a-proof/problems-for-section-1.1.md)
 * [第二章  良序原理](proofs/2-the-well-ordering-principle.md)
 * [第三章  逻辑式](proofs/3-logical-formulas.md)
