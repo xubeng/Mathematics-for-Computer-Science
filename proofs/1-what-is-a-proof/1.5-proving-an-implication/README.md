@@ -8,5 +8,7 @@
 * （哥德巴赫猜想 [1.1.6 ](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.1-propositions/page2)重新表述）如果n是一个大于2的偶数，那么n是两个素数的和。
 * 如果0 ≤ x ≤ 2，那么 $$-x^3+4x+1$$ &gt;0。
 
+有两种标准的方法去证明一个蕴含式。
+
 
 
