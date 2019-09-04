@@ -23,6 +23,8 @@
   * [1.5 证明一个蕴含式](proofs/1-what-is-a-proof/1.5-proving-an-implication/README.md)
     * [1.5.1 方法一](proofs/1-what-is-a-proof/1.5-proving-an-implication/1.5.1-method-1.md)
     * [1.5.2 方法二  证明逆否命题](proofs/1-what-is-a-proof/1.5-proving-an-implication/1.5.2-method-2-prove-the-contrapositive.md)
+  * [1.6  证明”有且仅有“](proofs/1-what-is-a-proof/1.6-proving-an-if-and-only-if/README.md)
+    * [1.6.1 方法一：证明每个陈述蕴含另一个](proofs/1-what-is-a-proof/1.6-proving-an-if-and-only-if/1.6.1-method-1-prove-each-statement-implies-the-other.md)
   * [第一部分第一章节的题目](proofs/1-what-is-a-proof/problems-for-section-1.1.md)
 * [第二章  良序原理](proofs/2-the-well-ordering-principle.md)
 * [第三章  逻辑式](proofs/3-logical-formulas.md)
