@@ -28,6 +28,7 @@
     * [1.6.2 方法二：构建一系列当且仅当](proofs/1-what-is-a-proof/1.6-proving-an-if-and-only-if/1.6.2-method-2-construct-a-chain-of-iffs.md)
   * [1.7 分情况证明](proofs/1-what-is-a-proof/1.7-proof-by-cases.md)
   * [1.8 反证](proofs/1-what-is-a-proof/1.8-proof-by-contradiction.md)
+  * [1.10 引用](proofs/1-what-is-a-proof/1.10-references.md)
   * [第一部分第一章节的题目](proofs/1-what-is-a-proof/problems-for-section-1.1.md)
 * [第二章  良序原理](proofs/2-the-well-ordering-principle.md)
 * [第三章  逻辑式](proofs/3-logical-formulas.md)
