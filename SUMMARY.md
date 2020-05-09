@@ -33,6 +33,7 @@
   * [第一部分第一章节的题目](proofs/1-what-is-a-proof/problems-for-section-1.1.md)
 * [第二章  良序原理](proofs/2-the-well-ordering-principle/README.md)
   * [2.1 良序证明](proofs/2-the-well-ordering-principle/2.1-well-ordering-proofs.md)
+  * [2.2 良序证明模板](proofs/2-the-well-ordering-principle/2.2-template-for-wop-proofs.md)
 * [第三章  逻辑式](proofs/3-logical-formulas.md)
 * [第四章 数学中的数据类型](proofs/4-mathematical-data-types.md)
 * [第五章 归纳](proofs/5-induction.md)
