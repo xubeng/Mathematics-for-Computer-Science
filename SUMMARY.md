@@ -38,6 +38,7 @@
   * [2.4 良序集合](proofs/2-the-well-ordering-principle/2.4-well-ordered-sets.md)
 * [第三章  逻辑式](proofs/3-logical-formulas/README.md)
   * [3.1 来自命题的命题](proofs/3-logical-formulas/3.1-propositions-from-propositions.md)
+  * [3.2 计算机程序中的命题逻辑](proofs/3-logical-formulas/3.2-propositional-logic-in-computer-programs.md)
 * [第四章 数学中的数据类型](proofs/4-mathematical-data-types.md)
 * [第五章 归纳](proofs/5-induction.md)
 * [第六章 状态机](proofs/6-state-machines.md)
