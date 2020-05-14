@@ -2,10 +2,10 @@
 
 
 
-### 第 一章 什么是证明  <a id="zheng-ming-di-yi-zhang-shen-me-shi-zheng-ming"></a>
+### [第 一章 什么是证明  ](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof) <a id="zheng-ming-di-yi-zhang-shen-me-shi-zheng-ming"></a>
 
-* 1.1 命题
-* 1.2 谓词
+* [1.1 命题](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.1-propositions)
+* [1.2 谓词](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.2-predicates)
 
   
 ****
