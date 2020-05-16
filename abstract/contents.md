@@ -1,3 +1,7 @@
+---
+description: 点击标题可以跳转到对于页面
+---
+
 # 目录
 
 
@@ -9,9 +13,11 @@
 * \*\*\*\*[**1.3 公理化方法**](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.3-the-axiomatic-method)
 * \*\*\*\*[**1.4 我们的公理**](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.4-our-axioms)
 * \*\*\*\*[**1.5 证明一个蕴含式**](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.5-proving-an-implication)
-
-  
-****
+* \*\*\*\*[**1.6 证明”当且仅当“**](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.6-proving-an-if-and-only-if)
+* \*\*\*\*[**1.7 分情况证明**](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.7-proof-by-cases)
+* \*\*\*\*[**1.8 反证法**](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.8-proof-by-contradiction)
+* \*\*\*\*[**1.9 实践出“良证”**](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.9-good-proofs-in-practice)
+* \*\*\*\*[**1.10 引用**](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.10-references)
 
 ### 第二章 良序原理 
 
@@ -25,17 +31,17 @@
 
 ### 第六章 状态机
 
-###  第七章 递归数据类型 
+### 第七章 递归数据类型 
 
 ### 第八章 无限集合
 
-###  第九章 数论
+### 第九章 数论
 
-###  第十章 有向图和偏序 
+### 第十章 有向图和偏序 
 
 ### 第十一章 通信网
 
-###  第十二章 简单图 
+### 第十二章 简单图 
 
 ### 第十三章 平面图 
 
