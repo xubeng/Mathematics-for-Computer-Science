@@ -34,7 +34,7 @@
 * [第二章  良序原理](proofs/2-the-well-ordering-principle/README.md)
   * [2.1 良序证明](proofs/2-the-well-ordering-principle/2.1-well-ordering-proofs.md)
   * [2.2 良序证明模板](proofs/2-the-well-ordering-principle/2.2-template-for-wop-proofs.md)
-  * [2.3 Factoring into Primes](proofs/2-the-well-ordering-principle/2.3-factoring-into-primes.md)
+  * [2.3 素因式分解定理](proofs/2-the-well-ordering-principle/2.3-factoring-into-primes.md)
   * [2.4 良序集合](proofs/2-the-well-ordering-principle/2.4-well-ordered-sets.md)
 * [第三章  逻辑式](proofs/3-logical-formulas/README.md)
   * [3.1 来自命题的命题](proofs/3-logical-formulas/3.1-propositions-from-propositions.md)
