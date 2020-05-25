@@ -37,7 +37,6 @@
   * [2.3 素因式分解定理](proofs/2-the-well-ordering-principle/2.3-factoring-into-primes.md)
   * [2.4 良序集合](proofs/2-the-well-ordering-principle/2.4-well-ordered-sets.md)
 * [第三章  逻辑式](proofs/3-logical-formulas/README.md)
-  * [Untitled](proofs/3-logical-formulas/untitled.md)
   * [3.1 来自命题的命题](proofs/3-logical-formulas/3.1-propositions-from-propositions.md)
   * [3.2 计算机程序中的命题逻辑](proofs/3-logical-formulas/3.2-propositional-logic-in-computer-programs.md)
   * [3.3 等效和有效性](proofs/3-logical-formulas/3.3-equivalence-and-validity.md)
