@@ -55,7 +55,7 @@
   * [5.3 强归纳法 vs. 归纳 vs. 良序](proofs/5-induction/5.3-strong-induction-vs.-induction-vs.-well-ordering.md)
   * [Untitled](proofs/5-induction/untitled.md)
 * [第六章 状态机](proofs/6-state-machines/README.md)
-  * [Untitled](proofs/6-state-machines/untitled.md)
+  * [6.1 状态和过渡](proofs/6-state-machines/6.1-states-and-transitions.md)
 * [第七章 递归数据类型](proofs/7-recursive-data-types.md)
 * [第八章 无限集合](proofs/8-infinite-sets.md)
 * [参考文献](proofs/bibliography/README.md)
