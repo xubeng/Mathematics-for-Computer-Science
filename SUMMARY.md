@@ -68,7 +68,7 @@
   * [7.6 查找树](proofs/7-recursive-data-types/7.6-search-trees.md)
   * [7.7 计算机科学中的归纳](proofs/7-recursive-data-types/7.7-induction-in-computer-science.md)
 * [第八章 无限集合](proofs/8-infinite-sets/README.md)
-  * [8.1  无限基数](proofs/8-infinite-sets/8.1-infinite-cardinality.md)
+  * [8.1 无限基数](proofs/8-infinite-sets/8.1-infinite-cardinality.md)
 * [参考文献](proofs/bibliography/README.md)
   * [第一页](proofs/bibliography/page1.md)
   * [第二页](proofs/bibliography/page2.md)
