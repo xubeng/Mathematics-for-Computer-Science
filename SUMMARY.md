@@ -82,3 +82,8 @@
   * [第二页](proofs/glossary-of-symbols/page2.md)
   * [第三页](proofs/glossary-of-symbols/page3.md)
 
+## 第二部分 结构 <a id="ii-structures"></a>
+
+* [介绍](ii-structures/introduction.md)
+* [第九章 数论](ii-structures/9-number-theory.md)
+
