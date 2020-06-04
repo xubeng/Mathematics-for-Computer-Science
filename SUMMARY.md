@@ -78,6 +78,7 @@
 * [介绍](ii-structures/introduction.md)
 * [第九章 数论](ii-structures/9-number-theory/README.md)
   * [9.1 整除性](ii-structures/9-number-theory/9.1-divisibility.md)
+  * [9.2 最大公因子](ii-structures/9-number-theory/9.2-the-greatest-common-divisor.md)
 
 ## 参考文献、符号术语表、索引
 
