@@ -72,18 +72,23 @@
   * [8.2 暂停问题](proofs/8-infinite-sets/8.2-the-halting-problem.md)
   * [8.3 集合的逻辑](proofs/8-infinite-sets/8.3-the-logic-of-sets.md)
   * [8.4 一切真正地起作用吗？](proofs/8-infinite-sets/8.4-does-all-this-really-work.md)
-* [参考文献](proofs/bibliography/README.md)
-  * [第一页](proofs/bibliography/page1.md)
-  * [第二页](proofs/bibliography/page2.md)
-  * [第三页](proofs/bibliography/page3.md)
-  * [第四页](proofs/bibliography/page4.md)
-* [符号术语表](proofs/glossary-of-symbols/README.md)
-  * [第一页](proofs/glossary-of-symbols/page1.md)
-  * [第二页](proofs/glossary-of-symbols/page2.md)
-  * [第三页](proofs/glossary-of-symbols/page3.md)
 
 ## 第二部分 结构 <a id="ii-structures"></a>
 
 * [介绍](ii-structures/introduction.md)
-* [第九章 数论](ii-structures/9-number-theory.md)
+* [第九章 数论](ii-structures/9-number-theory/README.md)
+  * [9.1 整除性](ii-structures/9-number-theory/9.1-divisibility.md)
+
+## 参考文献、符号术语表、索引
+
+* [参考文献](can-kao-wen-xian-fu-hao-shu-yu-biao-suo-yin/bibliography/README.md)
+  * [第一页](can-kao-wen-xian-fu-hao-shu-yu-biao-suo-yin/bibliography/page1.md)
+  * [第二页](can-kao-wen-xian-fu-hao-shu-yu-biao-suo-yin/bibliography/page2.md)
+  * [第三页](can-kao-wen-xian-fu-hao-shu-yu-biao-suo-yin/bibliography/page3.md)
+  * [第四页](can-kao-wen-xian-fu-hao-shu-yu-biao-suo-yin/bibliography/page4.md)
+* [符号术语表](can-kao-wen-xian-fu-hao-shu-yu-biao-suo-yin/glossary-of-symbols/README.md)
+  * [第一页](can-kao-wen-xian-fu-hao-shu-yu-biao-suo-yin/glossary-of-symbols/page1.md)
+  * [第二页](can-kao-wen-xian-fu-hao-shu-yu-biao-suo-yin/glossary-of-symbols/page2.md)
+  * [第三页](can-kao-wen-xian-fu-hao-shu-yu-biao-suo-yin/glossary-of-symbols/page3.md)
+* [索引](can-kao-wen-xian-fu-hao-shu-yu-biao-suo-yin/index.md)
 
