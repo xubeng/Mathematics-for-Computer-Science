@@ -80,16 +80,16 @@
   * [9.1 整除性](ii-structures/9-number-theory/9.1-divisibility.md)
   * [9.2 最大公因子](ii-structures/9-number-theory/9.2-the-greatest-common-divisor.md)
 
-## 参考文献、符号术语表、索引
+## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
-* [参考文献](can-kao-wen-xian-fu-hao-shu-yu-biao-suo-yin/bibliography/README.md)
-  * [第一页](can-kao-wen-xian-fu-hao-shu-yu-biao-suo-yin/bibliography/page1.md)
-  * [第二页](can-kao-wen-xian-fu-hao-shu-yu-biao-suo-yin/bibliography/page2.md)
-  * [第三页](can-kao-wen-xian-fu-hao-shu-yu-biao-suo-yin/bibliography/page3.md)
-  * [第四页](can-kao-wen-xian-fu-hao-shu-yu-biao-suo-yin/bibliography/page4.md)
-* [符号术语表](can-kao-wen-xian-fu-hao-shu-yu-biao-suo-yin/glossary-of-symbols/README.md)
-  * [第一页](can-kao-wen-xian-fu-hao-shu-yu-biao-suo-yin/glossary-of-symbols/page1.md)
-  * [第二页](can-kao-wen-xian-fu-hao-shu-yu-biao-suo-yin/glossary-of-symbols/page2.md)
-  * [第三页](can-kao-wen-xian-fu-hao-shu-yu-biao-suo-yin/glossary-of-symbols/page3.md)
-* [索引](can-kao-wen-xian-fu-hao-shu-yu-biao-suo-yin/index.md)
+* [参考文献](bibliography-glossaryofsymbols-index/bibliography/README.md)
+  * [第一页](bibliography-glossaryofsymbols-index/bibliography/page1.md)
+  * [第二页](bibliography-glossaryofsymbols-index/bibliography/page2.md)
+  * [第三页](bibliography-glossaryofsymbols-index/bibliography/page3.md)
+  * [第四页](bibliography-glossaryofsymbols-index/bibliography/page4.md)
+* [符号术语表](bibliography-glossaryofsymbols-index/glossary-of-symbols/README.md)
+  * [第一页](bibliography-glossaryofsymbols-index/glossary-of-symbols/page1.md)
+  * [第二页](bibliography-glossaryofsymbols-index/glossary-of-symbols/page2.md)
+  * [第三页](bibliography-glossaryofsymbols-index/glossary-of-symbols/page3.md)
+* [索引](bibliography-glossaryofsymbols-index/index.md)
 
