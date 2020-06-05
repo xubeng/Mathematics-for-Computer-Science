@@ -79,6 +79,10 @@
 * [第九章 数论](ii-structures/9-number-theory/README.md)
   * [9.1 整除性](ii-structures/9-number-theory/9.1-divisibility.md)
   * [9.2 最大公因子](ii-structures/9-number-theory/9.2-the-greatest-common-divisor.md)
+  * [9.3 质数的秘密](ii-structures/9-number-theory/9.3-prime-mysteries.md)
+  * [9.4 算术基本定理](ii-structures/9-number-theory/9.4-the-fundamental-theorem-of-arithmetic.md)
+  * [9.5 艾兰图灵](ii-structures/9-number-theory/9.5-alan-turing.md)
+  * [9.6 模的运算](ii-structures/9-number-theory/9.6-modular-arithmetic.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
