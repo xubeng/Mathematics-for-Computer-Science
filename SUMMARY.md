@@ -83,6 +83,13 @@
   * [9.4 算术基本定理](ii-structures/9-number-theory/9.4-the-fundamental-theorem-of-arithmetic.md)
   * [9.5 艾兰图灵](ii-structures/9-number-theory/9.5-alan-turing.md)
   * [9.6 模的运算](ii-structures/9-number-theory/9.6-modular-arithmetic.md)
+  * [9.7 余数运算](ii-structures/9-number-theory/9.7-remainder-arithmetic.md)
+  * [9.8 图灵代码（版本 2.0）](ii-structures/9-number-theory/9.8-turings-code-version-2.0.md)
+  * [9.9 乘法逆运算和相约](ii-structures/9-number-theory/9.9-multiplicative-inverses-and-cancelling.md)
+  * [9.10 欧拉定理](ii-structures/9-number-theory/9.10-eulers-theorem.md)
+  * [9.11 RSA 公钥加密](ii-structures/9-number-theory/9.11-rsa-public-key-encryption.md)
+  * [9.12 SAT和它有什么关系？](ii-structures/9-number-theory/9.12-what-has-sat-got-to-do-with-it.md)
+  * [9.13 参考](ii-structures/9-number-theory/9.13-references.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
