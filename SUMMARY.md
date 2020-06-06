@@ -90,7 +90,7 @@
   * [9.11 RSA 公钥加密](ii-structures/9-number-theory/9.11-rsa-public-key-encryption.md)
   * [9.12 SAT和它有什么关系？](ii-structures/9-number-theory/9.12-what-has-sat-got-to-do-with-it.md)
   * [9.13 参考](ii-structures/9-number-theory/9.13-references.md)
-* [第十章 有向图和局部排序](10-directed-graphs-and-partial-orders.md)
+* [第十章 有向图和局部排序](ii-structures/10-directed-graphs-and-partial-orders.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
