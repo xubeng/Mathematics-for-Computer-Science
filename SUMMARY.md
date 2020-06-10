@@ -92,7 +92,7 @@
   * [9.13 参考](ii-structures/9-number-theory/9.13-references.md)
 * [第十章 有向图和局部排序](ii-structures/10-directed-graphs-and-partial-orders/README.md)
   * [10.1 顶角](ii-structures/10-directed-graphs-and-partial-orders/10.1-vertex-degrees.md)
-  * [Untitled](ii-structures/10-directed-graphs-and-partial-orders/untitled.md)
+  * [10.2 Walks and Path](ii-structures/10-directed-graphs-and-partial-orders/10.2-walks-and-path.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
