@@ -93,6 +93,8 @@
 * [第十章 有向图和局部排序](ii-structures/10-directed-graphs-and-partial-orders/README.md)
   * [10.1 顶角](ii-structures/10-directed-graphs-and-partial-orders/10.1-vertex-degrees.md)
   * [10.2 Walks and Path](ii-structures/10-directed-graphs-and-partial-orders/10.2-walks-and-path.md)
+  * [10.3 邻接矩阵](ii-structures/10-directed-graphs-and-partial-orders/10.3-adjacency-matrices.md)
+  * [10.4 Walk Relations](ii-structures/10-directed-graphs-and-partial-orders/10.4-walk-relations.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
