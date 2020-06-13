@@ -96,6 +96,7 @@
   * [10.3 邻接矩阵](ii-structures/10-directed-graphs-and-partial-orders/10.3-adjacency-matrices.md)
   * [10.4 Walk Relations](ii-structures/10-directed-graphs-and-partial-orders/10.4-walk-relations.md)
   * [10.5 有向无环图和scheduling](ii-structures/10-directed-graphs-and-partial-orders/10.5-directed-acyclic-graphs-and-scheduling.md)
+  * [10.6 Partial Orders](ii-structures/10-directed-graphs-and-partial-orders/10.6-partial-orders.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
