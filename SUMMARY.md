@@ -99,6 +99,7 @@
   * [10.6 Partial Orders](ii-structures/10-directed-graphs-and-partial-orders/10.6-partial-orders.md)
   * [10.7 Representing Partial Orders by Set Containment](ii-structures/10-directed-graphs-and-partial-orders/10.7-representing-partial-orders-by-set-containment.md)
   * [10.8 线性排序](ii-structures/10-directed-graphs-and-partial-orders/10.8-linear-orders.md)
+  * [10.9 Product Orders](ii-structures/10-directed-graphs-and-partial-orders/10.9-product-orders.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
