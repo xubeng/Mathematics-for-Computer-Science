@@ -102,6 +102,7 @@
   * [10.9 Product Orders](ii-structures/10-directed-graphs-and-partial-orders/10.9-product-orders.md)
   * [10.10 对等关系](ii-structures/10-directed-graphs-and-partial-orders/10.10-equivalence-relations.md)
   * [10.11 Summary of Relational Properties](ii-structures/10-directed-graphs-and-partial-orders/10.11-summary-of-relational-properties.md)
+  * [10.12 引用](ii-structures/10-directed-graphs-and-partial-orders/10.12-references.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
