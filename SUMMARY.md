@@ -105,6 +105,8 @@
   * [10.12 引用](ii-structures/10-directed-graphs-and-partial-orders/10.12-references.md)
 * [十一章 通信网络](ii-structures/11-communication-networks/README.md)
   * [11.1 路由](ii-structures/11-communication-networks/11.1-routing.md)
+  * [11.2 路由算法](ii-structures/11-communication-networks/11.2-routing-measures.md)
+  * [11.3 路由设计](ii-structures/11-communication-networks/11.3-network-designs.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
