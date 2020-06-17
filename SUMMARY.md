@@ -103,7 +103,7 @@
   * [10.10 对等关系](ii-structures/10-directed-graphs-and-partial-orders/10.10-equivalence-relations.md)
   * [10.11 Summary of Relational Properties](ii-structures/10-directed-graphs-and-partial-orders/10.11-summary-of-relational-properties.md)
   * [10.12 引用](ii-structures/10-directed-graphs-and-partial-orders/10.12-references.md)
-* [十一章](ii-structures/shi-yi-zhang.md)
+* [十一章 通信网络](ii-structures/11-communication-networks.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
