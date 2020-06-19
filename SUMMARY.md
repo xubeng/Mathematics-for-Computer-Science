@@ -107,7 +107,10 @@
   * [11.1 路由](ii-structures/11-communication-networks/11.1-routing.md)
   * [11.2 路由算法](ii-structures/11-communication-networks/11.2-routing-measures.md)
   * [11.3 路由设计](ii-structures/11-communication-networks/11.3-network-designs.md)
-* [十二章](shi-er-zhang.md)
+
+---
+
+* [十二章 简易图](12-simple-graphs.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
