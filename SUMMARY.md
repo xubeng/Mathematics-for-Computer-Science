@@ -109,6 +109,7 @@
   * [11.3 路由设计](ii-structures/11-communication-networks/11.3-network-designs.md)
 * [十二章 简易图](ii-structures/12-simple-graphs/README.md)
   * [12.1 顶点和角](ii-structures/12-simple-graphs/12.1-vertex-adjacency-and-degrees.md)
+  * [12.2 美国的性人口特征](ii-structures/12-simple-graphs/12.2-sexual-demographics-in-america.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
