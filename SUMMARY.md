@@ -110,6 +110,7 @@
 * [十二章 简易图](ii-structures/12-simple-graphs/README.md)
   * [12.1 顶点和角](ii-structures/12-simple-graphs/12.1-vertex-adjacency-and-degrees.md)
   * [12.2 美国的性人口特征](ii-structures/12-simple-graphs/12.2-sexual-demographics-in-america.md)
+  * [12.3 Some Common Graphs](ii-structures/12-simple-graphs/12.3-some-common-graphs.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
