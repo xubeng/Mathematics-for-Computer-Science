@@ -119,6 +119,7 @@
   * [12.9 Special Walks and Tours](ii-structures/12-simple-graphs/12.9-special-walks-and-tours.md)
   * [12.10 k-connected Graphs](ii-structures/12-simple-graphs/12.10-k-connected-graphs.md)
   * [12.11 森林和树](ii-structures/12-simple-graphs/12.11-forests-and-trees.md)
+  * [12.12 引用](ii-structures/12-simple-graphs/12.12-references.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
