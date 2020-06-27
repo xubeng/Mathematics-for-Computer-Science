@@ -121,6 +121,10 @@
   * [12.11 森林和树](ii-structures/12-simple-graphs/12.11-forests-and-trees.md)
   * [12.12 引用](ii-structures/12-simple-graphs/12.12-references.md)
 
+---
+
+* [13 Planar Graphs](13-planar-graphs.md)
+
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
 * [参考文献](bibliography-glossaryofsymbols-index/bibliography/README.md)
