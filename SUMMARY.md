@@ -126,6 +126,7 @@
   * [13.3 欧拉公式](ii-structures/13-planar-graphs/13.3-eulers-formula.md)
   * [13.4 Bounding the Number of Edges in a Planar Graph](ii-structures/13-planar-graphs/13.4-bounding-the-number-of-edges-in-a-planar-graph.md)
   * [13.5 Returning to K5 and K3,3](ii-structures/13-planar-graphs/13.5-returning-to-k5-and-k3-3.md)
+  * [13.6 Coloring Planar Graphs](ii-structures/13-planar-graphs/13.6-coloring-planar-graphs.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
