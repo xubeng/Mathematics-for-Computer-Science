@@ -130,10 +130,10 @@
   * [13.7 Classifying Polyhedra](ii-structures/13-planar-graphs/13.7-classifying-polyhedra.md)
   * [13.8 Another Characterization for Planar Graphs](ii-structures/13-planar-graphs/13.8-another-characterization-for-planar-graphs.md)
 
-## 第三部分 计数
+## 第三部分 计数 <a id="iii-counting"></a>
 
-* [介绍](di-san-bu-fen-ji-shu/introduction.md)
-* [14 Sums and Asymptotics](di-san-bu-fen-ji-shu/14-sums-and-asymptotics.md)
+* [介绍](iii-counting/introduction.md)
+* [14 Sums and Asymptotics](iii-counting/14-sums-and-asymptotics.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
