@@ -132,7 +132,8 @@
 
 ## 第三部分 计数
 
-* [Untitled](di-san-bu-fen-ji-shu/untitled.md)
+* [介绍](di-san-bu-fen-ji-shu/introduction.md)
+* [14 Sums and Asymptotics](di-san-bu-fen-ji-shu/14-sums-and-asymptotics.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
