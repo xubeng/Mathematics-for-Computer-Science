@@ -130,6 +130,10 @@
   * [13.7 Classifying Polyhedra](ii-structures/13-planar-graphs/13.7-classifying-polyhedra.md)
   * [13.8 Another Characterization for Planar Graphs](ii-structures/13-planar-graphs/13.8-another-characterization-for-planar-graphs.md)
 
+## 第三部分 计数
+
+* [Untitled](di-san-bu-fen-ji-shu/untitled.md)
+
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
 * [参考文献](bibliography-glossaryofsymbols-index/bibliography/README.md)
