@@ -138,6 +138,7 @@
   * [14.2 Sums of Powers](iii-counting/14-sums-and-asymptotics/14.2-sums-of-powers.md)
   * [14.3 Approximating Sums](iii-counting/14-sums-and-asymptotics/14.3-approximating-sums.md)
   * [14.4 Hanging Out Over the Edge](iii-counting/14-sums-and-asymptotics/14.4-hanging-out-over-the-edge.md)
+  * [14.5 Products](iii-counting/14-sums-and-asymptotics/14.5-products.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
