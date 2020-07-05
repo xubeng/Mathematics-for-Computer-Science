@@ -140,6 +140,7 @@
   * [14.4 Hanging Out Over the Edge](iii-counting/14-sums-and-asymptotics/14.4-hanging-out-over-the-edge.md)
   * [14.5 Products](iii-counting/14-sums-and-asymptotics/14.5-products.md)
   * [14.6 Double Trouble](iii-counting/14-sums-and-asymptotics/14.6-double-trouble.md)
+  * [14.7 Asymptotic Notation](iii-counting/14-sums-and-asymptotics/14.7-asymptotic-notation.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
