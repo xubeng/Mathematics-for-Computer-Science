@@ -141,6 +141,7 @@
   * [14.5 Products](iii-counting/14-sums-and-asymptotics/14.5-products.md)
   * [14.6 Double Trouble](iii-counting/14-sums-and-asymptotics/14.6-double-trouble.md)
   * [14.7 Asymptotic Notation](iii-counting/14-sums-and-asymptotics/14.7-asymptotic-notation.md)
+* [15 Cardinality Rules](iii-counting/15-cardinality-rules.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
