@@ -145,6 +145,7 @@
   * [15.1 Counting One Thing by Counting Another](iii-counting/15-cardinality-rules/15.1-counting-one-thing-by-counting-another.md)
   * [15.2 Counting Sequences](iii-counting/15-cardinality-rules/15.2-counting-sequences.md)
   * [15.3 The Generalized Product Rule](iii-counting/15-cardinality-rules/15.3-the-generalized-product-rule.md)
+  * [15.4 The Division Rul](iii-counting/15-cardinality-rules/15.4-the-division-rul.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
