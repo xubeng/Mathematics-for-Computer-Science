@@ -147,6 +147,7 @@
   * [15.3 The Generalized Product Rule](iii-counting/15-cardinality-rules/15.3-the-generalized-product-rule.md)
   * [15.4 The Division Rul](iii-counting/15-cardinality-rules/15.4-the-division-rul.md)
   * [15.5 Counting Subsets](iii-counting/15-cardinality-rules/15.5-counting-subsets.md)
+  * [15.6 Sequences with Repetitions](iii-counting/15-cardinality-rules/15.6-sequences-with-repetitions.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
