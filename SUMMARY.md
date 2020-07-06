@@ -143,6 +143,7 @@
   * [14.7 Asymptotic Notation](iii-counting/14-sums-and-asymptotics/14.7-asymptotic-notation.md)
 * [15 Cardinality Rules](iii-counting/15-cardinality-rules/README.md)
   * [15.1 Counting One Thing by Counting Another](iii-counting/15-cardinality-rules/15.1-counting-one-thing-by-counting-another.md)
+  * [15.2 Counting Sequences](iii-counting/15-cardinality-rules/15.2-counting-sequences.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
