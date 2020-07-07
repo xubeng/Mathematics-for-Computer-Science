@@ -153,6 +153,7 @@
   * [15.9 Inclusion-Exclusion](iii-counting/15-cardinality-rules/15.9-inclusion-exclusion.md)
   * [15.10 Combinatorial Proofs](iii-counting/15-cardinality-rules/15.10-combinatorial-proofs.md)
   * [15.11 References](iii-counting/15-cardinality-rules/15.11-references.md)
+* [16 Generating Functions](iii-counting/16-generating-functions.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
