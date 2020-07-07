@@ -149,6 +149,10 @@
   * [15.5 Counting Subsets](iii-counting/15-cardinality-rules/15.5-counting-subsets.md)
   * [15.6 Sequences with Repetitions](iii-counting/15-cardinality-rules/15.6-sequences-with-repetitions.md)
   * [15.7 Counting Practice: Poker Hands](iii-counting/15-cardinality-rules/15.7-counting-practice-poker-hands.md)
+  * [15.8 The Pigeonhole Principle](iii-counting/15-cardinality-rules/15.8-the-pigeonhole-principle.md)
+  * [15.9 Inclusion-Exclusion](iii-counting/15-cardinality-rules/15.9-inclusion-exclusion.md)
+  * [15.10 Combinatorial Proofs](iii-counting/15-cardinality-rules/15.10-combinatorial-proofs.md)
+  * [15.11 References](iii-counting/15-cardinality-rules/15.11-references.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
