@@ -156,6 +156,7 @@
 * [16 Generating Functions](iii-counting/16-generating-functions/README.md)
   * [16.1 Infinite Series](iii-counting/16-generating-functions/16.1-infinite-series.md)
   * [16.2 Counting with Generating Functions](iii-counting/16-generating-functions/16.2-counting-with-generating-functions.md)
+  * [16.3 Partial Fractions](iii-counting/16-generating-functions/16.3-partial-fractions.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
