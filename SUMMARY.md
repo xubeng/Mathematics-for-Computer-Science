@@ -161,6 +161,10 @@
   * [16.5 Formal Power Series](iii-counting/16-generating-functions/16.5-formal-power-series.md)
   * [16.6 References](iii-counting/16-generating-functions/16.6-references.md)
 
+## IV Probability
+
+* [Introduction](iv-probability/introduction.md)
+
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
 * [参考文献](bibliography-glossaryofsymbols-index/bibliography/README.md)
@@ -173,8 +177,4 @@
   * [第二页](bibliography-glossaryofsymbols-index/glossary-of-symbols/page2.md)
   * [第三页](bibliography-glossaryofsymbols-index/glossary-of-symbols/page3.md)
 * [索引](bibliography-glossaryofsymbols-index/index.md)
-
-## IV Probability
-
-* [Untitled](iv-probability/untitled.md)
 
