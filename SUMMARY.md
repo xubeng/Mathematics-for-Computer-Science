@@ -164,7 +164,8 @@
 ## IV Probability
 
 * [Introduction](iv-probability/introduction.md)
-* [17 Events and Probability Spaces](iv-probability/17-events-and-probability-spaces.md)
+* [17 Events and Probability Spaces](iv-probability/17-events-and-probability-spaces/README.md)
+  * [17.1 Let’s Make a Dea](iv-probability/17-events-and-probability-spaces/17.1-lets-make-a-dea.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
