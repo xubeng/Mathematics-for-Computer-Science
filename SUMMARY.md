@@ -170,6 +170,7 @@
   * [17.3 Strange Dice](iv-probability/17-events-and-probability-spaces/17.3-strange-dice.md)
   * [17.4 The Birthday Principle](iv-probability/17-events-and-probability-spaces/17.4-the-birthday-principle.md)
   * [17.5 Set Theory and Probability](iv-probability/17-events-and-probability-spaces/17.5-set-theory-and-probability.md)
+  * [17.6 References](iv-probability/17-events-and-probability-spaces/17.6-references.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
