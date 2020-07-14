@@ -174,7 +174,7 @@
 * [18 条件概率](iv-probability/18-conditional-probability/README.md)
   * [18.1 Monty Hall Confusion](iv-probability/18-conditional-probability/18.1-monty-hall-confusion.md)
   * [18.2 Definition and Notation](iv-probability/18-conditional-probability/18.2-definition-and-notation.md)
-  * [Untitled](iv-probability/18-conditional-probability/untitled.md)
+  * [18.3 The Four-Step Method for Conditional Probability](iv-probability/18-conditional-probability/18.3-the-four-step-method-for-conditional-probability.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
