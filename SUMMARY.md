@@ -178,6 +178,7 @@
   * [18.4 Why Tree Diagrams Work](iv-probability/18-conditional-probability/18.4-why-tree-diagrams-work.md)
   * [18.5 The Law of Total Probability](iv-probability/18-conditional-probability/18.5-the-law-of-total-probability.md)
   * [18.6 Simpson’s Paradox](iv-probability/18-conditional-probability/18.6-simpsons-paradox.md)
+  * [18.7 Independence](iv-probability/18-conditional-probability/18.7-independence.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
