@@ -176,6 +176,7 @@
   * [18.2 Definition and Notation](iv-probability/18-conditional-probability/18.2-definition-and-notation.md)
   * [18.3 The Four-Step Method for Conditional Probability](iv-probability/18-conditional-probability/18.3-the-four-step-method-for-conditional-probability.md)
   * [18.4 Why Tree Diagrams Work](iv-probability/18-conditional-probability/18.4-why-tree-diagrams-work.md)
+  * [18.5 The Law of Total Probability](iv-probability/18-conditional-probability/18.5-the-law-of-total-probability.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
