@@ -181,6 +181,7 @@
   * [18.7 Independence](iv-probability/18-conditional-probability/18.7-independence.md)
   * [18.8 Mutual Independence](iv-probability/18-conditional-probability/18.8-mutual-independence.md)
   * [18.9 Probability versus Confidence](iv-probability/18-conditional-probability/18.9-probability-versus-confidence.md)
+* [19 随机变量](iv-probability/19-random-variables.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
