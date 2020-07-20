@@ -186,6 +186,7 @@
   * [19.2 Independence](iv-probability/19-random-variables/19.2-independence.md)
   * [19.3 Distribution Functions](iv-probability/19-random-variables/19.3-distribution-functions.md)
   * [19.4 Great Expectation](iv-probability/19-random-variables/19.4-great-expectation.md)
+  * [19.5 Linearity of Expectation](iv-probability/19-random-variables/19.5-linearity-of-expectation.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
