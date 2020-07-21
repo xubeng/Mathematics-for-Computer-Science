@@ -190,6 +190,7 @@
   * [19.6 Really Great Expectations](iv-probability/19-random-variables/19.6-really-great-expectations.md)
 * [20 Deviation from the Mean](iv-probability/20-deviation-from-the-mean/README.md)
   * [20.1 Markov’s Theorem](iv-probability/20-deviation-from-the-mean/20.1-markovs-theorem.md)
+  * [20.2 Chebyshev’s Theorem](iv-probability/20-deviation-from-the-mean/20.2-chebyshevs-theorem.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
