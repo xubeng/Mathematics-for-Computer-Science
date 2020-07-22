@@ -193,6 +193,7 @@
   * [20.2 Chebyshev’s Theorem](iv-probability/20-deviation-from-the-mean/20.2-chebyshevs-theorem.md)
   * [20.3 Properties of Variance](iv-probability/20-deviation-from-the-mean/20.3-properties-of-variance.md)
   * [20.4 Estimation by Random Sampling](iv-probability/20-deviation-from-the-mean/20.4-estimation-by-random-sampling.md)
+  * [20.5 Sums of Random Variables](iv-probability/20-deviation-from-the-mean/20.5-sums-of-random-variables.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
