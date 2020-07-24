@@ -196,6 +196,7 @@
   * [20.5 Sums of Random Variables](iv-probability/20-deviation-from-the-mean/20.5-sums-of-random-variables.md)
 * [21 Random Walks](iv-probability/21-random-walks/README.md)
   * [21.1 Gambler’s Ruin](iv-probability/21-random-walks/21.1-gamblers-ruin.md)
+  * [21.2 Random Walks on Graphs](iv-probability/21-random-walks/21.2-random-walks-on-graphs.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
