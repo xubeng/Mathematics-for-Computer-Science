@@ -198,6 +198,11 @@
   * [21.1 Gambler’s Ruin](iv-probability/21-random-walks/21.1-gamblers-ruin.md)
   * [21.2 Random Walks on Graphs](iv-probability/21-random-walks/21.2-random-walks-on-graphs.md)
 
+## V Recurrences
+
+* [Introduction](v-recurrences/introduction.md)
+* [22 Recurrences](v-recurrences/22-recurrences.md)
+
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
 * [参考文献](bibliography-glossaryofsymbols-index/bibliography/README.md)
