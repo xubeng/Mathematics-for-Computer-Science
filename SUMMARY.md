@@ -201,7 +201,8 @@
 ## V Recurrences
 
 * [Introduction](v-recurrences/introduction.md)
-* [22 Recurrences](v-recurrences/22-recurrences.md)
+* [22 Recurrences](v-recurrences/22-recurrences/README.md)
+  * [22.1 The Towers of Hanoi](v-recurrences/22-recurrences/22.1-the-towers-of-hanoi.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
 
