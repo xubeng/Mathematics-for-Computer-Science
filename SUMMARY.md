@@ -53,7 +53,6 @@
   * [5.1 一般归纳法](proofs/5-induction/5.1-ordinary-induction.md)
   * [5.2 强归纳法](proofs/5-induction/5.2-strong-induction.md)
   * [5.3 强归纳法 vs. 归纳 vs. 良序](proofs/5-induction/5.3-strong-induction-vs.-induction-vs.-well-ordering.md)
-  * [Untitled](proofs/5-induction/untitled.md)
 * [第六章 状态机](proofs/6-state-machines/README.md)
   * [6.1 状态和过渡](proofs/6-state-machines/6.1-states-and-transitions.md)
   * [6.2 不变原则](proofs/6-state-machines/6.2-the-invariant-principle.md)
