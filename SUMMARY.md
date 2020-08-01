@@ -119,7 +119,7 @@
   * [12.10 k-connected Graphs](ii-structures/12-simple-graphs/12.10-k-connected-graphs.md)
   * [12.11 森林和树](ii-structures/12-simple-graphs/12.11-forests-and-trees.md)
   * [12.12 引用](ii-structures/12-simple-graphs/12.12-references.md)
-* [13 Planar Graphs](ii-structures/13-planar-graphs/README.md)
+* [13 平面图](ii-structures/13-planar-graphs/README.md)
   * [13.1 Drawing Graphs in the Plane](ii-structures/13-planar-graphs/13.1-drawing-graphs-in-the-plane.md)
   * [13.2. Definitions of Planar Graphs](ii-structures/13-planar-graphs/13.2.-definitions-of-planar-graphs.md)
   * [13.3 欧拉公式](ii-structures/13-planar-graphs/13.3-eulers-formula.md)
