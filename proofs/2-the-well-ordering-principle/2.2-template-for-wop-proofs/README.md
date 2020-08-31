@@ -8,7 +8,7 @@
 
                    C ::={n∈N \| NOT\(P\(n\)\) is true}.
 
-      （记号{n \| Q\(n\) }意思是“所有Q\(n\)成立时元素的集合。”见章节4.1.4）
+      （记号{n \| Q\(n\) }意思是“所有Q\(n\)成立时元素的集合。”见章节[4.1.4](https://finit-xu.gitbook.io/msc20180606/proofs/4-mathematical-data-types/4.1-sets/4.1.4-set-builder-notation)。）
 
 * 通过反证法假设C非空。
 * 以某种方式引起矛盾——
