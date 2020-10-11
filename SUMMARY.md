@@ -213,16 +213,16 @@
   * [22.4 Divide-and-Conquer Recurrences](v-recurrences/22-recurrences/22.4-divide-and-conquer-recurrences.md)
   * [22.5 A Feel for Recurrences](v-recurrences/22-recurrences/22.5-a-feel-for-recurrences.md)
 
-## 参考文献、符号术语表、索引 <a id="bibliography-glossaryofsymbols-index"></a>
+## 参考文献、符号术语表、索引 <a id="bibliography-glossary-of-symbols-index"></a>
 
-* [参考文献](bibliography-glossaryofsymbols-index/bibliography/README.md)
-  * [第一页](bibliography-glossaryofsymbols-index/bibliography/page1.md)
-  * [第二页](bibliography-glossaryofsymbols-index/bibliography/page2.md)
-  * [第三页](bibliography-glossaryofsymbols-index/bibliography/page3.md)
-  * [第四页](bibliography-glossaryofsymbols-index/bibliography/page4.md)
-* [符号术语表](bibliography-glossaryofsymbols-index/glossary-of-symbols/README.md)
-  * [第一页](bibliography-glossaryofsymbols-index/glossary-of-symbols/page1.md)
-  * [第二页](bibliography-glossaryofsymbols-index/glossary-of-symbols/page2.md)
-  * [第三页](bibliography-glossaryofsymbols-index/glossary-of-symbols/page3.md)
-* [索引](bibliography-glossaryofsymbols-index/index.md)
+* [参考文献](bibliography-glossary-of-symbols-index/bibliography/README.md)
+  * [第一页](bibliography-glossary-of-symbols-index/bibliography/page1.md)
+  * [第二页](bibliography-glossary-of-symbols-index/bibliography/page2.md)
+  * [第三页](bibliography-glossary-of-symbols-index/bibliography/page3.md)
+  * [第四页](bibliography-glossary-of-symbols-index/bibliography/page4.md)
+* [符号术语表](bibliography-glossary-of-symbols-index/glossary-of-symbols/README.md)
+  * [第一页](bibliography-glossary-of-symbols-index/glossary-of-symbols/page1.md)
+  * [第二页](bibliography-glossary-of-symbols-index/glossary-of-symbols/page2.md)
+  * [第三页](bibliography-glossary-of-symbols-index/glossary-of-symbols/page3.md)
+* [索引](bibliography-glossary-of-symbols-index/index.md)
 
