@@ -1,2 +1,2 @@
-# 14 Sums and Asymptotics
+# 14 和与渐进性
 

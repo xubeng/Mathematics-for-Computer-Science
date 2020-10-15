@@ -138,7 +138,7 @@
 ## 第三部分 计数 <a id="iii-counting"></a>
 
 * [介绍](iii-counting/introduction.md)
-* [14 Sums and Asymptotics](iii-counting/14-sums-and-asymptotics/README.md)
+* [14 和与渐进性](iii-counting/14-sums-and-asymptotics/README.md)
   * [14.1 The Value of an Annuity](iii-counting/14-sums-and-asymptotics/14.1-the-value-of-an-annuity.md)
   * [14.2 Sums of Powers](iii-counting/14-sums-and-asymptotics/14.2-sums-of-powers.md)
   * [14.3 Approximating Sums](iii-counting/14-sums-and-asymptotics/14.3-approximating-sums.md)
