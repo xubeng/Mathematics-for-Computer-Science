@@ -4,3 +4,7 @@
 
         A = {Alex, Tippy, Shells, Shadowg}
 
+        B = { fred, blue, yellowg}
+
+        C = { {a, b}, {a, c}, {b, c}}
+
