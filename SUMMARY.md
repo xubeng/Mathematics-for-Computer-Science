@@ -46,7 +46,7 @@
   * [3.6 谓词公式](i-proofs/3-logical-formulas/3.6-predicate-formulas.md)
 * [第四章 数学中的数据类型](i-proofs/4-mathematical-data-types/README.md)
   * [4.1 集合](i-proofs/4-mathematical-data-types/4.1-sets/README.md)
-    * [4.1.1 Some Popular Sets](i-proofs/4-mathematical-data-types/4.1-sets/4.1.1-some-popular-sets.md)
+    * [4.1.1 一些流行的集合](i-proofs/4-mathematical-data-types/4.1-sets/4.1.1-some-popular-sets.md)
     * [4.1.2 Comparing and Combining Sets](i-proofs/4-mathematical-data-types/4.1-sets/4.1.2-comparing-and-combining-sets.md)
     * [4.1.3 Power Set](i-proofs/4-mathematical-data-types/4.1-sets/4.1.3-power-set.md)
     * [4.1.4 Set Builder Notation](i-proofs/4-mathematical-data-types/4.1-sets/4.1.4-set-builder-notation.md)
