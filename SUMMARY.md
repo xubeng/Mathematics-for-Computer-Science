@@ -207,9 +207,9 @@
 ## V Recurrences
 
 * [引言](v-recurrences/introduction.md)
-* [22 Recurrences](v-recurrences/22-recurrences/README.md)
+* [22 递归](v-recurrences/22-recurrences/README.md)
   * [22.1 The Towers of Hanoi](v-recurrences/22-recurrences/22.1-the-towers-of-hanoi.md)
-  * [22.2 Merge Sort](v-recurrences/22-recurrences/22.2-merge-sort.md)
+  * [22.2 归并排序](v-recurrences/22-recurrences/22.2-merge-sort.md)
   * [22.3 Linear Recurrences](v-recurrences/22-recurrences/22.3-linear-recurrences.md)
   * [22.4 Divide-and-Conquer Recurrences](v-recurrences/22-recurrences/22.4-divide-and-conquer-recurrences.md)
   * [22.5 A Feel for Recurrences](v-recurrences/22-recurrences/22.5-a-feel-for-recurrences.md)

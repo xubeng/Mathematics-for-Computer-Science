@@ -1,2 +1,2 @@
-# 22 Recurrences
+# 22 递归
 
