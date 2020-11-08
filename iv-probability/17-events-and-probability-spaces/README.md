@@ -1,2 +1,2 @@
-# 17 Events and Probability Spaces
+# 17 事件和概率空间
 

@@ -170,7 +170,7 @@
 ## IV Probability
 
 * [Introduction](iv-probability/introduction.md)
-* [17 Events and Probability Spaces](iv-probability/17-events-and-probability-spaces/README.md)
+* [17 事件和概率空间](iv-probability/17-events-and-probability-spaces/README.md)
   * [17.1 Let’s Make a Dea](iv-probability/17-events-and-probability-spaces/17.1-lets-make-a-dea.md)
   * [17.2 The Four Step Method](iv-probability/17-events-and-probability-spaces/17.2-the-four-step-method.md)
   * [17.3 Strange Dice](iv-probability/17-events-and-probability-spaces/17.3-strange-dice.md)
@@ -202,7 +202,7 @@
   * [20.5 Sums of Random Variables](iv-probability/20-deviation-from-the-mean/20.5-sums-of-random-variables.md)
 * [21 随机漫步](iv-probability/21-random-walks/README.md)
   * [21.1 赌徒的毁灭](iv-probability/21-random-walks/21.1-gamblers-ruin.md)
-  * [21.2 Random Walks on Graphs](iv-probability/21-random-walks/21.2-random-walks-on-graphs.md)
+  * [21.2 图上的随机漫步](iv-probability/21-random-walks/21.2-random-walks-on-graphs.md)
 
 ## V Recurrences
 
