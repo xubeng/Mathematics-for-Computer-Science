@@ -171,7 +171,7 @@
 
 * [Introduction](iv-probability/introduction.md)
 * [17 事件和概率空间](iv-probability/17-events-and-probability-spaces/README.md)
-  * [17.1 Let’s Make a Dea](iv-probability/17-events-and-probability-spaces/17.1-lets-make-a-dea.md)
+  * [17.1 Let’s Make a Deal](iv-probability/17-events-and-probability-spaces/17.1-lets-make-a-deal.md)
   * [17.2 The Four Step Method](iv-probability/17-events-and-probability-spaces/17.2-the-four-step-method.md)
   * [17.3 Strange Dice](iv-probability/17-events-and-probability-spaces/17.3-strange-dice.md)
   * [17.4 The Birthday Principle](iv-probability/17-events-and-probability-spaces/17.4-the-birthday-principle.md)
