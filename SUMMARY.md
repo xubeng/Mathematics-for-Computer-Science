@@ -184,7 +184,7 @@
   * [18.4 Why Tree Diagrams Work](iv-probability/18-conditional-probability/18.4-why-tree-diagrams-work.md)
   * [18.5 The Law of Total Probability](iv-probability/18-conditional-probability/18.5-the-law-of-total-probability.md)
   * [18.6 Simpson’s Paradox](iv-probability/18-conditional-probability/18.6-simpsons-paradox.md)
-  * [18.7 Independence](iv-probability/18-conditional-probability/18.7-independence.md)
+  * [18.7 独立事件](iv-probability/18-conditional-probability/18.7-independence.md)
   * [18.8 Mutual Independence](iv-probability/18-conditional-probability/18.8-mutual-independence.md)
   * [18.9 Probability versus Confidence](iv-probability/18-conditional-probability/18.9-probability-versus-confidence.md)
 * [19 随机变量](iv-probability/19-random-variables/README.md)
