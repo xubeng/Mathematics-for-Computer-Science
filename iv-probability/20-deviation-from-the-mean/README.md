@@ -1,2 +1,2 @@
-# 20 Deviation from the Mean
+# 20 离均差
 

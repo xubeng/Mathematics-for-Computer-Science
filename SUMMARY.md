@@ -194,7 +194,7 @@
   * [19.4 Great Expectation](iv-probability/19-random-variables/19.4-great-expectation.md)
   * [19.5 Linearity of Expectation](iv-probability/19-random-variables/19.5-linearity-of-expectation.md)
   * [19.6 Really Great Expectations](iv-probability/19-random-variables/19.6-really-great-expectations.md)
-* [20 Deviation from the Mean](iv-probability/20-deviation-from-the-mean/README.md)
+* [20 离均差](iv-probability/20-deviation-from-the-mean/README.md)
   * [20.1 Markov’s Theorem](iv-probability/20-deviation-from-the-mean/20.1-markovs-theorem.md)
   * [20.2 Chebyshev’s Theorem](iv-probability/20-deviation-from-the-mean/20.2-chebyshevs-theorem.md)
   * [20.3 Properties of Variance](iv-probability/20-deviation-from-the-mean/20.3-properties-of-variance.md)
