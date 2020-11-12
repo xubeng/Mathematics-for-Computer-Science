@@ -199,7 +199,7 @@
   * [20.2 Chebyshev’s Theorem](iv-probability/20-deviation-from-the-mean/20.2-chebyshevs-theorem.md)
   * [20.3 Properties of Variance](iv-probability/20-deviation-from-the-mean/20.3-properties-of-variance.md)
   * [20.4 Estimation by Random Sampling](iv-probability/20-deviation-from-the-mean/20.4-estimation-by-random-sampling.md)
-  * [20.5 Sums of Random Variables](iv-probability/20-deviation-from-the-mean/20.5-sums-of-random-variables.md)
+  * [20.5 随机变量的和](iv-probability/20-deviation-from-the-mean/20.5-sums-of-random-variables.md)
 * [21 随机漫步](iv-probability/21-random-walks/README.md)
   * [21.1 赌徒的毁灭](iv-probability/21-random-walks/21.1-gamblers-ruin.md)
   * [21.2 图上的随机漫步](iv-probability/21-random-walks/21.2-random-walks-on-graphs.md)
