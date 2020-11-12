@@ -190,7 +190,7 @@
 * [19 随机变量](iv-probability/19-random-variables/README.md)
   * [19.1 Random Variable Examples](iv-probability/19-random-variables/19.1-random-variable-examples.md)
   * [19.2 Independence](iv-probability/19-random-variables/19.2-independence.md)
-  * [19.3 Distribution Functions](iv-probability/19-random-variables/19.3-distribution-functions.md)
+  * [19.3 分布函数](iv-probability/19-random-variables/19.3-distribution-functions.md)
   * [19.4 Great Expectation](iv-probability/19-random-variables/19.4-great-expectation.md)
   * [19.5 Linearity of Expectation](iv-probability/19-random-variables/19.5-linearity-of-expectation.md)
   * [19.6 Really Great Expectations](iv-probability/19-random-variables/19.6-really-great-expectations.md)
