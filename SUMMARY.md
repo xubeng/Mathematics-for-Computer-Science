@@ -181,7 +181,7 @@
   * [18.1 Monty Hall Confusion](iv-probability/18-conditional-probability/18.1-monty-hall-confusion.md)
   * [18.2 Definition and Notation](iv-probability/18-conditional-probability/18.2-definition-and-notation.md)
   * [18.3 The Four-Step Method for Conditional Probability](iv-probability/18-conditional-probability/18.3-the-four-step-method-for-conditional-probability.md)
-  * [18.4 Why Tree Diagrams Work](iv-probability/18-conditional-probability/18.4-why-tree-diagrams-work.md)
+  * [18.4 为什么树形图有效](iv-probability/18-conditional-probability/18.4-why-tree-diagrams-work.md)
   * [18.5 The Law of Total Probability](iv-probability/18-conditional-probability/18.5-the-law-of-total-probability.md)
   * [18.6 Simpson’s Paradox](iv-probability/18-conditional-probability/18.6-simpsons-paradox.md)
   * [18.7 独立事件](iv-probability/18-conditional-probability/18.7-independence.md)
