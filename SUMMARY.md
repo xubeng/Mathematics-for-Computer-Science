@@ -178,7 +178,7 @@
   * [17.5 Set Theory and Probability](iv-probability/17-events-and-probability-spaces/17.5-set-theory-and-probability.md)
   * [17.6 参考](iv-probability/17-events-and-probability-spaces/17.6-references.md)
 * [18 条件概率](iv-probability/18-conditional-probability/README.md)
-  * [18.1 Monty Hall Confusion](iv-probability/18-conditional-probability/18.1-monty-hall-confusion.md)
+  * [18.1 蒙提霍尔问题](iv-probability/18-conditional-probability/18.1-monty-hall-confusion.md)
   * [18.2 Definition and Notation](iv-probability/18-conditional-probability/18.2-definition-and-notation.md)
   * [18.3 The Four-Step Method for Conditional Probability](iv-probability/18-conditional-probability/18.3-the-four-step-method-for-conditional-probability.md)
   * [18.4 为什么树形图有效](iv-probability/18-conditional-probability/18.4-why-tree-diagrams-work.md)
