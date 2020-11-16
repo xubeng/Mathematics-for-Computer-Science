@@ -186,7 +186,7 @@
   * [18.6 Simpson’s Paradox](iv-probability/18-conditional-probability/18.6-simpsons-paradox.md)
   * [18.7 独立事件](iv-probability/18-conditional-probability/18.7-independence.md)
   * [18.8 互相独立](iv-probability/18-conditional-probability/18.8-mutual-independence.md)
-  * [18.9 Probability versus Confidence](iv-probability/18-conditional-probability/18.9-probability-versus-confidence.md)
+  * [18.9 概率与信心](iv-probability/18-conditional-probability/18.9-probability-versus-confidence.md)
 * [19 随机变量](iv-probability/19-random-variables/README.md)
   * [19.1 Random Variable Examples](iv-probability/19-random-variables/19.1-random-variable-examples.md)
   * [19.2 Independence](iv-probability/19-random-variables/19.2-independence.md)
