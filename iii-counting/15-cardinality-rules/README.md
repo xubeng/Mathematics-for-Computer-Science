@@ -1,2 +1,2 @@
-# 15 Cardinality Rules
+# 15 基数规则
 
