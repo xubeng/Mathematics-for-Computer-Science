@@ -148,7 +148,7 @@
   * [14.6 Double Trouble](iii-counting/14-sums-and-asymptotics/14.6-double-trouble.md)
   * [14.7 Asymptotic Notation](iii-counting/14-sums-and-asymptotics/14.7-asymptotic-notation.md)
 * [15 基数规则](iii-counting/15-cardinality-rules/README.md)
-  * [15.1 Counting One Thing by Counting Another](iii-counting/15-cardinality-rules/15.1-counting-one-thing-by-counting-another.md)
+  * [15.1 间接计算一件事物](iii-counting/15-cardinality-rules/15.1-counting-one-thing-by-counting-another.md)
   * [15.2 Counting Sequences](iii-counting/15-cardinality-rules/15.2-counting-sequences.md)
   * [15.3 The Generalized Product Rule](iii-counting/15-cardinality-rules/15.3-the-generalized-product-rule.md)
   * [15.4 The Division Rul](iii-counting/15-cardinality-rules/15.4-the-division-rul.md)
