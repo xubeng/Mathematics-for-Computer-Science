@@ -98,7 +98,7 @@
   * [9.13 参考](ii-structures/9-number-theory/9.13-references.md)
 * [第十章 有向图和局部排序](ii-structures/10-directed-graphs-and-partial-orders/README.md)
   * [10.1 顶角](ii-structures/10-directed-graphs-and-partial-orders/10.1-vertex-degrees.md)
-  * [10.2 行走和路径](ii-structures/10-directed-graphs-and-partial-orders/10.2-walks-and-path.md)
+  * [10.2 漫步和道路](ii-structures/10-directed-graphs-and-partial-orders/10.2-walks-and-path.md)
   * [10.3 邻接矩阵](ii-structures/10-directed-graphs-and-partial-orders/10.3-adjacency-matrices.md)
   * [10.4 Walk Relations](ii-structures/10-directed-graphs-and-partial-orders/10.4-walk-relations.md)
   * [10.5 有向无环图和scheduling](ii-structures/10-directed-graphs-and-partial-orders/10.5-directed-acyclic-graphs-and-scheduling.md)
