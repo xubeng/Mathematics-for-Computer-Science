@@ -116,7 +116,7 @@
 * [十二章 简易图](ii-structures/12-simple-graphs/README.md)
   * [12.1 顶点和角](ii-structures/12-simple-graphs/12.1-vertex-adjacency-and-degrees.md)
   * [12.2 美国的性人口特征](ii-structures/12-simple-graphs/12.2-sexual-demographics-in-america.md)
-  * [12.3 Some Common Graphs](ii-structures/12-simple-graphs/12.3-some-common-graphs.md)
+  * [12.3 一些公共图](ii-structures/12-simple-graphs/12.3-some-common-graphs.md)
   * [12.4 Isomorphism](ii-structures/12-simple-graphs/12.4-isomorphism.md)
   * [12.5 Bipartite Graphs & Matchings](ii-structures/12-simple-graphs/12.5-bipartite-graphs-and-matchings.md)
   * [12.6 Coloring](ii-structures/12-simple-graphs/12.6-coloring.md)
