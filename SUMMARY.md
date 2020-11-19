@@ -100,7 +100,7 @@
   * [10.1 顶角](ii-structures/10-directed-graphs-and-partial-orders/10.1-vertex-degrees.md)
   * [10.2 漫游和道路](ii-structures/10-directed-graphs-and-partial-orders/10.2-walks-and-path.md)
   * [10.3 邻接矩阵](ii-structures/10-directed-graphs-and-partial-orders/10.3-adjacency-matrices.md)
-  * [10.4 Walk Relations](ii-structures/10-directed-graphs-and-partial-orders/10.4-walk-relations.md)
+  * [10.4 漫游关系](ii-structures/10-directed-graphs-and-partial-orders/10.4-walk-relations.md)
   * [10.5 有向无环图和scheduling](ii-structures/10-directed-graphs-and-partial-orders/10.5-directed-acyclic-graphs-and-scheduling.md)
   * [10.6 Partial Orders](ii-structures/10-directed-graphs-and-partial-orders/10.6-partial-orders.md)
   * [10.7 Representing Partial Orders by Set Containment](ii-structures/10-directed-graphs-and-partial-orders/10.7-representing-partial-orders-by-set-containment.md)
