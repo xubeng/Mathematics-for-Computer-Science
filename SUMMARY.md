@@ -123,7 +123,7 @@
   * [12.7 Walks in Simple Graphs](ii-structures/12-simple-graphs/12.7-walks-in-simple-graphs.md)
   * [12.8 连接](ii-structures/12-simple-graphs/12.8-connectivity.md)
   * [12.9 Special Walks and Tours](ii-structures/12-simple-graphs/12.9-special-walks-and-tours.md)
-  * [12.10 k-connected Graphs](ii-structures/12-simple-graphs/12.10-k-connected-graphs.md)
+  * [12.10 k-连通图](ii-structures/12-simple-graphs/12.10-k-connected-graphs.md)
   * [12.11 森林和树](ii-structures/12-simple-graphs/12.11-forests-and-trees.md)
   * [12.12 引用](ii-structures/12-simple-graphs/12.12-references.md)
 * [13 平面图](ii-structures/13-planar-graphs/README.md)
