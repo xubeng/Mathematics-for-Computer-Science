@@ -107,7 +107,7 @@
   * [10.8 线性排序](ii-structures/10-directed-graphs-and-partial-orders/10.8-linear-orders.md)
   * [10.9 Product Orders](ii-structures/10-directed-graphs-and-partial-orders/10.9-product-orders.md)
   * [10.10 对等关系](ii-structures/10-directed-graphs-and-partial-orders/10.10-equivalence-relations.md)
-  * [10.11 Summary of Relational Properties](ii-structures/10-directed-graphs-and-partial-orders/10.11-summary-of-relational-properties.md)
+  * [10.11 关系属性概述](ii-structures/10-directed-graphs-and-partial-orders/10.11-summary-of-relational-properties.md)
   * [10.12 引用](ii-structures/10-directed-graphs-and-partial-orders/10.12-references.md)
 * [十一章 通信网络](ii-structures/11-communication-networks/README.md)
   * [11.1 路由](ii-structures/11-communication-networks/11.1-routing.md)
