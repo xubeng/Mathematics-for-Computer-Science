@@ -146,7 +146,7 @@
   * [14.4 Hanging Out Over the Edge](iii-counting/14-sums-and-asymptotics/14.4-hanging-out-over-the-edge.md)
   * [14.5 Products](iii-counting/14-sums-and-asymptotics/14.5-products.md)
   * [14.6 Double Trouble](iii-counting/14-sums-and-asymptotics/14.6-double-trouble.md)
-  * [14.7 Asymptotic Notation](iii-counting/14-sums-and-asymptotics/14.7-asymptotic-notation.md)
+  * [14.7 渐近表示法](iii-counting/14-sums-and-asymptotics/14.7-asymptotic-notation.md)
 * [15 基数规则](iii-counting/15-cardinality-rules/README.md)
   * [15.1 间接计算一件事物](iii-counting/15-cardinality-rules/15.1-counting-one-thing-by-counting-another.md)
   * [15.2 计算序列](iii-counting/15-cardinality-rules/15.2-counting-sequences.md)
