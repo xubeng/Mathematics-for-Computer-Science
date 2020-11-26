@@ -160,7 +160,7 @@
   * [15.10 Combinatorial Proofs](iii-counting/15-cardinality-rules/15.10-combinatorial-proofs.md)
   * [15.11 引用](iii-counting/15-cardinality-rules/15.11-references.md)
 * [16 Generating Functions](iii-counting/16-generating-functions/README.md)
-  * [16.1 Infinite Series](iii-counting/16-generating-functions/16.1-infinite-series.md)
+  * [16.1 无穷级数](iii-counting/16-generating-functions/16.1-infinite-series.md)
   * [16.2 Counting with Generating Functions](iii-counting/16-generating-functions/16.2-counting-with-generating-functions.md)
   * [16.3 Partial Fractions](iii-counting/16-generating-functions/16.3-partial-fractions.md)
   * [16.4 Solving Linear Recurrences](iii-counting/16-generating-functions/16.4-solving-linear-recurrences.md)
