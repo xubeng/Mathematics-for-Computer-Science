@@ -1,2 +1,2 @@
-# 16 Generating Functions
+# 16 母函数
 
