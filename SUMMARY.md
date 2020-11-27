@@ -167,7 +167,7 @@
   * [16.5 Formal Power Series](iii-counting/16-generating-functions/16.5-formal-power-series.md)
   * [16.6 References](iii-counting/16-generating-functions/16.6-references.md)
 
-## IV Probability
+## IV 概率 <a id="iv-probability"></a>
 
 * [引言](iv-probability/introduction.md)
 * [17 事件和概率空间](iv-probability/17-events-and-probability-spaces/README.md)
