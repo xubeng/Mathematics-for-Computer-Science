@@ -165,7 +165,7 @@
   * [16.3 Partial Fractions](iii-counting/16-generating-functions/16.3-partial-fractions.md)
   * [16.4 Solving Linear Recurrences](iii-counting/16-generating-functions/16.4-solving-linear-recurrences.md)
   * [16.5 Formal Power Series](iii-counting/16-generating-functions/16.5-formal-power-series.md)
-  * [16.6 References](iii-counting/16-generating-functions/16.6-references.md)
+  * [16.6 引用](iii-counting/16-generating-functions/16.6-references.md)
 
 ## IV 概率 <a id="iv-probability"></a>
 
