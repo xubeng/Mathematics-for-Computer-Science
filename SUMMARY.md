@@ -175,7 +175,7 @@
   * [17.2 四步方法](iv-probability/17-events-and-probability-spaces/17.2-the-four-step-method.md)
   * [17.3 Strange Dice](iv-probability/17-events-and-probability-spaces/17.3-strange-dice.md)
   * [17.4 The Birthday Principle](iv-probability/17-events-and-probability-spaces/17.4-the-birthday-principle.md)
-  * [17.5 Set Theory and Probability](iv-probability/17-events-and-probability-spaces/17.5-set-theory-and-probability.md)
+  * [17.5 集合论和概率](iv-probability/17-events-and-probability-spaces/17.5-set-theory-and-probability.md)
   * [17.6 参考](iv-probability/17-events-and-probability-spaces/17.6-references.md)
 * [18 条件概率](iv-probability/18-conditional-probability/README.md)
   * [18.1 蒙提霍尔问题](iv-probability/18-conditional-probability/18.1-monty-hall-confusion.md)
