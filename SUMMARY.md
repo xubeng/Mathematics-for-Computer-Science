@@ -174,7 +174,7 @@
   * [17.1 让我们做个交易](iv-probability/17-events-and-probability-spaces/17.1-lets-make-a-deal.md)
   * [17.2 四步方法](iv-probability/17-events-and-probability-spaces/17.2-the-four-step-method.md)
   * [17.3 Strange Dice](iv-probability/17-events-and-probability-spaces/17.3-strange-dice.md)
-  * [17.4 The Birthday Principle](iv-probability/17-events-and-probability-spaces/17.4-the-birthday-principle.md)
+  * [17.4 生日原理](iv-probability/17-events-and-probability-spaces/17.4-the-birthday-principle.md)
   * [17.5 集合论和概率](iv-probability/17-events-and-probability-spaces/17.5-set-theory-and-probability.md)
   * [17.6 参考](iv-probability/17-events-and-probability-spaces/17.6-references.md)
 * [18 条件概率](iv-probability/18-conditional-probability/README.md)
