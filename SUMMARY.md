@@ -155,7 +155,7 @@
   * [15.5 计算子集](iii-counting/15-cardinality-rules/15.5-counting-subsets.md)
   * [15.6 Sequences with Repetitions](iii-counting/15-cardinality-rules/15.6-sequences-with-repetitions.md)
   * [15.7 计数实践: 扑克手](iii-counting/15-cardinality-rules/15.7-counting-practice-poker-hands.md)
-  * [15.8 The Pigeonhole Principle](iii-counting/15-cardinality-rules/15.8-the-pigeonhole-principle.md)
+  * [15.8 鸽子洞原理](iii-counting/15-cardinality-rules/15.8-the-pigeonhole-principle.md)
   * [15.9 Inclusion-Exclusion](iii-counting/15-cardinality-rules/15.9-inclusion-exclusion.md)
   * [15.10 Combinatorial Proofs](iii-counting/15-cardinality-rules/15.10-combinatorial-proofs.md)
   * [15.11 引用](iii-counting/15-cardinality-rules/15.11-references.md)
