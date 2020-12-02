@@ -131,7 +131,7 @@
   * [13.2 平面图的定义](ii-structures/13-planar-graphs/13.2-definitions-of-planar-graphs.md)
   * [13.3 欧拉公式](ii-structures/13-planar-graphs/13.3-eulers-formula.md)
   * [13.4 界定平面图的边界](ii-structures/13-planar-graphs/13.4-bounding-the-number-of-edges-in-a-planar-graph.md)
-  * [13.5 回到K5和K3,3](ii-structures/13-planar-graphs/13.5-returning-to-k5-and-k3-3.md)
+  * [13.5 回到 K5 和 K3,3](ii-structures/13-planar-graphs/13.5-returning-to-k5-and-k3-3.md)
   * [13.6 给平面图着色](ii-structures/13-planar-graphs/13.6-coloring-planar-graphs.md)
   * [13.7 分类多面体](ii-structures/13-planar-graphs/13.7-classifying-polyhedra.md)
   * [13.8 平面图的另一特征](ii-structures/13-planar-graphs/13.8-another-characterization-for-planar-graphs.md)
