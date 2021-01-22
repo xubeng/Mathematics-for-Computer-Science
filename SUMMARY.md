@@ -39,6 +39,7 @@
   * [2.4 良序集合](i-proofs/2-the-well-ordering-principle/2.4-well-ordered-sets.md)
 * [第三章  逻辑式](i-proofs/3-logical-formulas/README.md)
   * [3.1 来自命题的命题](i-proofs/3-logical-formulas/3.1-propositions-from-propositions/README.md)
+    * [3.1.2 当且仅当](i-proofs/3-logical-formulas/3.1-propositions-from-propositions/3.1.2-if-and-only-if.md)
     * [3.1.1 非，与和或](i-proofs/3-logical-formulas/3.1-propositions-from-propositions/3.1.1-not-and-and-or.md)
   * [3.2 计算机程序中的命题逻辑](i-proofs/3-logical-formulas/3.2-propositional-logic-in-computer-programs.md)
   * [3.3 等效和有效性](i-proofs/3-logical-formulas/3.3-equivalence-and-validity.md)
