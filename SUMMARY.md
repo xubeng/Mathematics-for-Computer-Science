@@ -44,6 +44,7 @@
     * [3.1.3 蕴含](i-proofs/3-logical-formulas/3.1-propositions-from-propositions/3.1.3-implies.md)
   * [3.2 计算机程序中的命题逻辑](i-proofs/3-logical-formulas/3.2-propositional-logic-in-computer-programs/README.md)
     * [3.2.1 真值表计算](i-proofs/3-logical-formulas/3.2-propositional-logic-in-computer-programs/3.2.1-truth-table-calculation.md)
+    * [3.2.2 晦涩的符号](i-proofs/3-logical-formulas/3.2-propositional-logic-in-computer-programs/3.2.2-cryptic-notation.md)
   * [3.3 等效和有效性](i-proofs/3-logical-formulas/3.3-equivalence-and-validity.md)
   * [3.4 命题代数](i-proofs/3-logical-formulas/3.4-the-algebra-of-propositions.md)
   * [3.5 布尔可满足性问题](i-proofs/3-logical-formulas/3.5-the-sat-problem.md)
