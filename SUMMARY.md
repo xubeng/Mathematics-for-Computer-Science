@@ -47,7 +47,7 @@
     * [3.2.2 晦涩的符号](i-proofs/3-logical-formulas/3.2-propositional-logic-in-computer-programs/3.2.2-cryptic-notation.md)
   * [3.3 等效和有效性](i-proofs/3-logical-formulas/3.3-equivalence-and-validity/README.md)
     * [3.3.1 Implications and Contrapositives](i-proofs/3-logical-formulas/3.3-equivalence-and-validity/3.3.1-implications-and-contrapositives.md)
-    * [Untitled](i-proofs/3-logical-formulas/3.3-equivalence-and-validity/untitled.md)
+    * [3.3.2 Validity and Satisfiability](i-proofs/3-logical-formulas/3.3-equivalence-and-validity/3.3.2-validity-and-satisfiability.md)
   * [3.4 命题代数](i-proofs/3-logical-formulas/3.4-the-algebra-of-propositions.md)
   * [3.5 布尔可满足性问题](i-proofs/3-logical-formulas/3.5-the-sat-problem.md)
   * [3.6 谓词公式](i-proofs/3-logical-formulas/3.6-predicate-formulas.md)
