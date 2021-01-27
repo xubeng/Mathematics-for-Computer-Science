@@ -49,7 +49,7 @@
     * [3.3.1 Implications and Contrapositives](i-proofs/3-logical-formulas/3.3-equivalence-and-validity/3.3.1-implications-and-contrapositives.md)
     * [3.3.2 Validity and Satisfiability](i-proofs/3-logical-formulas/3.3-equivalence-and-validity/3.3.2-validity-and-satisfiability.md)
   * [3.4 命题代数](i-proofs/3-logical-formulas/3.4-the-algebra-of-propositions/README.md)
-    * [3.4.1 Propositions in Normal Form](i-proofs/3-logical-formulas/3.4-the-algebra-of-propositions/3.4.1-propositions-in-normal-form.md)
+    * [3.4.1 常规形式的命题](i-proofs/3-logical-formulas/3.4-the-algebra-of-propositions/3.4.1-propositions-in-normal-form.md)
   * [3.5 布尔可满足性问题](i-proofs/3-logical-formulas/3.5-the-sat-problem.md)
   * [3.6 谓词公式](i-proofs/3-logical-formulas/3.6-predicate-formulas.md)
 * [第四章 数学中的数据类型](i-proofs/4-mathematical-data-types/README.md)
