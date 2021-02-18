@@ -6,7 +6,7 @@
 
 * 定义集合_**C**_为_**P**_ 为真值的反例。具体来说，定义
 
-                   C ::={n∈N \| NOT\(P\(n\)\) is true}.
+                   C ::={n∈N \| NOT\(P\(n\)\) 为真}.
 
       （记号{n \| Q\(n\) }意思是“所有Q\(n\)成立时元素的集合。”见章节[4.1.4](https://finit-xu.gitbook.io/msc20180606/proofs/4-mathematical-data-types/4.1-sets/4.1.4-set-builder-notation)）
 
