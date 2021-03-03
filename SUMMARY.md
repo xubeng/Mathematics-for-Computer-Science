@@ -38,6 +38,7 @@
   * [2.3 分解成质数](i-proofs/2-the-well-ordering-principle/2.3-factoring-into-primes.md)
   * [2.4 良序集合](i-proofs/2-the-well-ordering-principle/2.4-well-ordered-sets.md)
 * [第三章  逻辑式](i-proofs/3-logical-formulas/README.md)
+  * [3.7 引用](i-proofs/3-logical-formulas/3.7-references.md)
   * [3.1 来自命题的命题](i-proofs/3-logical-formulas/3.1-propositions-from-propositions/README.md)
     * [3.1.1 非，与和或](i-proofs/3-logical-formulas/3.1-propositions-from-propositions/3.1.1-not-and-and-or.md)
     * [3.1.2 当且仅当](i-proofs/3-logical-formulas/3.1-propositions-from-propositions/3.1.2-if-and-only-if.md)
