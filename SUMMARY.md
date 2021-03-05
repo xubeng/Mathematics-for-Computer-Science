@@ -46,7 +46,7 @@
     * [3.2.1 真值表计算](i-proofs/3-logical-formulas/3.2-propositional-logic-in-computer-programs/3.2.1-truth-table-calculation.md)
     * [3.2.2 晦涩的符号](i-proofs/3-logical-formulas/3.2-propositional-logic-in-computer-programs/3.2.2-cryptic-notation.md)
   * [3.3 等效和有效性](i-proofs/3-logical-formulas/3.3-equivalence-and-validity/README.md)
-    * [3.3.1 Implications and Contrapositives](i-proofs/3-logical-formulas/3.3-equivalence-and-validity/3.3.1-implications-and-contrapositives.md)
+    * [3.3.1 蕴含和相反](i-proofs/3-logical-formulas/3.3-equivalence-and-validity/3.3.1-implications-and-contrapositives.md)
     * [3.3.2 Validity and Satisfiability](i-proofs/3-logical-formulas/3.3-equivalence-and-validity/3.3.2-validity-and-satisfiability.md)
   * [3.4 命题代数](i-proofs/3-logical-formulas/3.4-the-algebra-of-propositions/README.md)
     * [3.4.1 常规形式的命题](i-proofs/3-logical-formulas/3.4-the-algebra-of-propositions/3.4.1-propositions-in-normal-form.md)
