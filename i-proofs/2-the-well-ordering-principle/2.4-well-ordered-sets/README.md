@@ -28,9 +28,11 @@ _证明。_使得S成为 $$\ge-n$$的整数的集合。现在给集合 $$S$$ 中
 
 证明。
 
+证明。一个拥有下边界 $$b \in \mathbb{R}$$的整数集合也拥有整数 $$n = \lfloor b \rfloor$$作为下边界，其中 $$\lfloor b \rfloor$$ 被称作 $$b$$ 的底部
 
-
-
+{% hint style="info" %}
+译者注： $$\lfloor b \rfloor$$ 意思是对 $$b$$ 向下取整。在JavaScript中对应：Math.floor\(b\)。
+{% endhint %}
 
     有限集合还是另一个良序集合的常规例子。
 
