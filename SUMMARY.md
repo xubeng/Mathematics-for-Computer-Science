@@ -37,7 +37,7 @@
     * [2.2.1 整数求和](i-proofs/2-the-well-ordering-principle/2.2-template-for-wop-proofs/2.2.1-summing-the-integers.md)
   * [2.3 分解成质数](i-proofs/2-the-well-ordering-principle/2.3-factoring-into-primes.md)
   * [2.4 良序集合](i-proofs/2-the-well-ordering-principle/2.4-well-ordered-sets/README.md)
-    * [2.4.1 A DifferentWell Ordered Set \(Optional\)](i-proofs/2-the-well-ordering-principle/2.4-well-ordered-sets/2.4.1-a-differentwell-ordered-set-optional.md)
+    * [2.4.1 一个不同寻常的良序集合（可选）](i-proofs/2-the-well-ordering-principle/2.4-well-ordered-sets/2.4.1-a-differentwell-ordered-set-optional.md)
 * [第三章  逻辑式](i-proofs/3-logical-formulas/README.md)
   * [3.1 来自命题的命题](i-proofs/3-logical-formulas/3.1-propositions-from-propositions/README.md)
     * [3.1.1 非，与和或](i-proofs/3-logical-formulas/3.1-propositions-from-propositions/3.1.1-not-and-and-or.md)
