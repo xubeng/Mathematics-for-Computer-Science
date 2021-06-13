@@ -9,8 +9,8 @@
 
 ## 第一部分：证明 <a id="i-proofs"></a>
 
-* [第一部分的前言](i-proofs/introduction.md)
-* [0.1 引用](i-proofs/0.1-references.md)
+* [第一部分的引言](i-proofs/introduction.md)
+* [0.1 参考文献](i-proofs/0.1-references.md)
 * [第一章  什么是证明 ？](i-proofs/1-what-is-a-proof/README.md)
   * [1.1 命题](i-proofs/1-what-is-a-proof/1.1-propositions/README.md)
     * [第一页](i-proofs/1-what-is-a-proof/1.1-propositions/page1.md)
