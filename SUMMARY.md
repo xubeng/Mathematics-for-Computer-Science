@@ -4,7 +4,8 @@
 
 ## 摘要 <a id="abstract"></a>
 
-* [译者前言](abstract/my-idea.md)
+* [译者序](abstract/my-idea.md)
+* [译者简介](abstract/my-introduction.md)
 * [目录](abstract/contents.md)
 
 ## 第一部分：证明 <a id="i-proofs"></a>
