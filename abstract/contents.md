@@ -10,10 +10,13 @@ description: 点击标题可以跳转到对于页面
 
 ### [第 一章 什么是证明  ](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof) <a id="zheng-ming-di-yi-zhang-shen-me-shi-zheng-ming"></a>
 
-* [1.1 命题](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.1-propositions)
-* [1.2 谓词](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.2-predicates)
+    [1.1 命题](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.1-propositions)
+
+    [1.2 谓词](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.2-predicates)
+
 * \*\*\*\*[**1.3 公理化方法**](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.3-the-axiomatic-method)
 * \*\*\*\*[**1.4 我们的公理**](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.4-our-axioms)
+  * 
 * \*\*\*\*[**1.5 证明一个蕴含式**](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.5-proving-an-implication)
 * \*\*\*\*[**1.6 证明”当且仅当“**](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.6-proving-an-if-and-only-if)
 * \*\*\*\*[**1.7 分情况证明**](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.7-proof-by-cases)
