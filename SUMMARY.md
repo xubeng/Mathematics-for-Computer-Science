@@ -30,7 +30,7 @@
   * [1.7 分情况证明](i-proofs/1-what-is-a-proof/1.7-proof-by-cases.md)
   * [1.8 反证法](i-proofs/1-what-is-a-proof/1.8-proof-by-contradiction.md)
   * [1.9 实践出“良证”](i-proofs/1-what-is-a-proof/1.9-good-proofs-in-practice.md)
-  * [1.10 引用](i-proofs/1-what-is-a-proof/1.10-references.md)
+  * [1.10 参考文献](i-proofs/1-what-is-a-proof/1.10-references.md)
   * [第一部分第一章节的题目](i-proofs/1-what-is-a-proof/problems-for-section-1.1.md)
 * [第二章  良序原理](i-proofs/2-the-well-ordering-principle/README.md)
   * [2.1 良序证明](i-proofs/2-the-well-ordering-principle/2.1-well-ordering-proofs.md)
