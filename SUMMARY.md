@@ -20,7 +20,7 @@
   * [1.3 公理化方法](i-proofs/1-what-is-a-proof/1.3-the-axiomatic-method.md)
   * [1.4 我们的公理](i-proofs/1-what-is-a-proof/1.4-our-axioms/README.md)
     * [1.4.1 逻辑推理](i-proofs/1-what-is-a-proof/1.4-our-axioms/1.4.1-logical-deductions.md)
-    * [1.4.2 证明模式](i-proofs/1-what-is-a-proof/1.4-our-axioms/1.4.2-patterns-of-proof.md)
+    * [1.4.2 证明的模式](i-proofs/1-what-is-a-proof/1.4-our-axioms/1.4.2-patterns-of-proof.md)
   * [1.5 证明一个蕴含式](i-proofs/1-what-is-a-proof/1.5-proving-an-implication/README.md)
     * [1.5.1 方法一](i-proofs/1-what-is-a-proof/1.5-proving-an-implication/1.5.1-method-1.md)
     * [1.5.2 方法二  证明逆否命题](i-proofs/1-what-is-a-proof/1.5-proving-an-implication/1.5.2-method-2-prove-the-contrapositive.md)
