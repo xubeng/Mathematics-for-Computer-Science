@@ -16,7 +16,13 @@ description: 点击标题可以跳转到对于页面
 * [1.4 我们的公理](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.4-our-axioms)
   * [1.4.1 逻辑推理](https://finit-xu.gitbook.io/msc20180606/i-proofs/1-what-is-a-proof/1.4-our-axioms/1.4.1-logical-deductions)
   * [1.4.2 证明的模式](https://finit-xu.gitbook.io/msc20180606/i-proofs/1-what-is-a-proof/1.4-our-axioms/1.4.2-patterns-of-proof)
-* [1.5 证明一个蕴含式](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.5-proving-an-implication)
+* [1.5 证明一个蕴含式](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.5-proving-an-implication)（国内书籍翻译为：证明蕴含）
+  * [1.5.1 方法一](https://finit-xu.gitbook.io/msc20180606/i-proofs/1-what-is-a-proof/1.5-proving-an-implication/1.5.1-method-1)
+  * [1.5.2 方法二：证明逆否命题](https://finit-xu.gitbook.io/msc20180606/i-proofs/1-what-is-a-proof/1.5-proving-an-implication/1.5.2-method-2-prove-the-contrapositive)（
+
+    * 国内书籍翻译为：
+
+    证明逆反命题）
 * [1.6 证明”当且仅当“](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.6-proving-an-if-and-only-if)
   * [方法一：证明两个语句相互蕴含](https://finit-xu.gitbook.io/msc20180606/i-proofs/1-what-is-a-proof/1.6-proving-an-if-and-only-if/1.6.1-method-1-prove-each-statement-implies-the-other)
   * [方法二：构建 iff 链](https://finit-xu.gitbook.io/msc20180606/i-proofs/1-what-is-a-proof/1.6-proving-an-if-and-only-if/1.6.2-method-2-construct-a-chain-of-iffs)
