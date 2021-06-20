@@ -19,7 +19,7 @@ description: 点击标题可以跳转到对于页面
 * [1.5 证明一个蕴含式](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.5-proving-an-implication)
 * [1.6 证明”当且仅当“](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.6-proving-an-if-and-only-if)
   * [方法一：证明两个语句相互蕴含](https://finit-xu.gitbook.io/msc20180606/i-proofs/1-what-is-a-proof/1.6-proving-an-if-and-only-if/1.6.1-method-1-prove-each-statement-implies-the-other)
-  * [方法二：构建iff链](https://finit-xu.gitbook.io/msc20180606/i-proofs/1-what-is-a-proof/1.6-proving-an-if-and-only-if/1.6.2-method-2-construct-a-chain-of-iffs)
+  * [方法二：构建 iff 链](https://finit-xu.gitbook.io/msc20180606/i-proofs/1-what-is-a-proof/1.6-proving-an-if-and-only-if/1.6.2-method-2-construct-a-chain-of-iffs)
 * [1.7 分情况证明](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.7-proof-by-cases)
 * [1.8 反证法](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.8-proof-by-contradiction)
 * [1.9 实践出“良证”](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.9-good-proofs-in-practice)
