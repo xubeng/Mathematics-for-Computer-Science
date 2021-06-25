@@ -27,7 +27,7 @@ description: 点击标题可以跳转到对于页面
 * [1.7 分情况证明](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.7-proof-by-cases)
 * [1.8 反证法](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.8-proof-by-contradiction)
 * [1.9 实践出“良证”](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.9-good-proofs-in-practice)
-* [1.10 引用](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.10-references)
+* [1.10 参考文献](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.10-references)
 
 ### 第二章 良序原理 
 
