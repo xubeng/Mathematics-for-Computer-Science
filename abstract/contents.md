@@ -59,6 +59,7 @@ description: 点击标题可以跳转到对于页面
 每个自然数集的非空集合都存在一个最小元素 
 
 * [2.1 良序证明](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.1-well-ordering-proofs)
+* 2.2 
 
 ### 第三章 逻辑式 
 
