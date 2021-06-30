@@ -56,13 +56,13 @@ description: 点击标题可以跳转到对于页面
 
 ### 第二章 良序原理 
 
-每个自然数集的非空集合都存在一个最小元素 
+[2.1 良序证明](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.1-well-ordering-proofs)
 
-* [2.1 良序证明](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.1-well-ordering-proofs)
 * [2.2 良序证明模板](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.2-template-for-wop-proofs)
   * [2.2.1 整数求和](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.2-template-for-wop-proofs/2.2.1-summing-the-integers)
 * [2.3 分解成质数](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.3-factoring-into-primes)
 * [2.4 良序集合](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.4-well-ordered-sets)
+  * 
 
 ### 第三章 逻辑式 
 
