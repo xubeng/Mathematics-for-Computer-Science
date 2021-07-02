@@ -66,6 +66,8 @@ description: 点击标题可以跳转到对于页面
 
 ### 第三章 逻辑式 
 
+* [3.1 来自命题的命题](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.1-propositions-from-propositions)
+
 ### 第四章 数学中的数据类型 
 
 ### 第五章 归纳 
