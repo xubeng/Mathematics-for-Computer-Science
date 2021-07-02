@@ -67,6 +67,7 @@ description: 点击标题可以跳转到对于页面
 ### 第三章 逻辑式 
 
 * [3.1 来自命题的命题](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.1-propositions-from-propositions)
+  * [3.1.1 非，与和或](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.1-propositions-from-propositions/3.1.1-not-and-and-or)
 
 ### 第四章 数学中的数据类型 
 
