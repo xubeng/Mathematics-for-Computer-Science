@@ -60,7 +60,7 @@ description: 点击标题可以跳转到对于页面
 
 * [2.2 良序证明模板](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.2-template-for-wop-proofs)
   * [2.2.1 整数求和](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.2-template-for-wop-proofs/2.2.1-summing-the-integers)
-* [2.3 分解成质数](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.3-factoring-into-primes)
+* [2.3 质因数分解](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.3-factoring-into-primes)
 * [2.4 良序集合](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.4-well-ordered-sets)
   * \*\*\*\*[**2.4.1 一个不同寻常的良序集合（可选）**](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.4-well-ordered-sets/2.4.1-a-differentwell-ordered-set-optional)
 
