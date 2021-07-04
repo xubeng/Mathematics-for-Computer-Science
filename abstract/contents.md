@@ -63,36 +63,35 @@ description: 点击标题可以跳转到对于页面
 * [2.3 质因数分解](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.3-factoring-into-primes)
 * [2.4 良序集合](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.4-well-ordered-sets)
   * \*\*\*\*[**2.4.1 一个不同寻常的良序集合（可选）**](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.4-well-ordered-sets/2.4.1-a-differentwell-ordered-set-optional)
-* 习题 1.1
-* 习题 1.2
-* 习题 1.3
-* 习题 1.4
-* 习题 1.5
-* 习题 1.5
-* 习题 1.7
-* 习题 1.8
-* 习题 1.9
-* 习题 1.10
-* 习题 1.11
-* 习题 1.12
-* 习题 1.13
-* 习题 1.14
-* 习题 1.15
-* 习题 1.16
-* 习题 1.17
-* 习题 1.18
-* 习题 1.19
-* 习题 1.20
-* 习题 1.21
-* 习题 1.22
-* 习题 1.23
-* 习题 1.24
-* 习题 1.25
+*  习题 2.1
+* 习题 2.2
+* 习题 2.3
+* 习题 2.4
+* 习题 2.5
+* 习题 2.5
+* 习题 2.7
+* 习题 2.8
+* 习题 2.9
+* 习题 2.10
+* 习题 2.11
+* 习题 2.12
+* 习题 2.13
+* 习题 2.14
+* 习题 2.15
+* 习题 2.16
+* 习题 2.17
+* 习题 2.18
+* 习题 2.19
+* 习题 2.20
+* 习题 2.21
+* 习题 2.22
+* 习题 2.23
 
-### 第三章 逻辑式 
+### 第三章  逻辑公式
 
-* [3.1 来自命题的命题](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.1-propositions-from-propositions)
-  * [3.1.1 非，与和或](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.1-propositions-from-propositions/3.1.1-not-and-and-or)
+[3.1 来自命题的命题](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.1-propositions-from-propositions)
+
+* [3.1.1 非，与和或](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.1-propositions-from-propositions/3.1.1-not-and-and-or)
 
 ### 第四章 数学中的数据类型 
 
