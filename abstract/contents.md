@@ -8,7 +8,7 @@ description: 点击标题可以跳转到对于页面
 
 [0.1 参考文献](https://finit-xu.gitbook.io/msc20180606/i-proofs/0.1-references)
 
-### [第 一章 什么是证明  ](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof) <a id="zheng-ming-di-yi-zhang-shen-me-shi-zheng-ming"></a>
+### [第 一章 什么是证明](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof) <a id="zheng-ming-di-yi-zhang-shen-me-shi-zheng-ming"></a>
 
 * [1.1 命题](https://finit-xu.gitbook.io/msc20180606/i-proofs/1-what-is-a-proof/1.1-propositions)
 * [1.2 谓词](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.2-predicates)
@@ -54,15 +54,19 @@ description: 点击标题可以跳转到对于页面
 * 习题 1.24
 * 习题 1.25
 
-### [第二章 良序原理 ](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle)
+### [第二章 良序原理](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle)
 
 [2.1 良序证明](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.1-well-ordering-proofs)
 
-* [2.2 良序证明模板](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.2-template-for-wop-proofs)
-  * [2.2.1 整数求和](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.2-template-for-wop-proofs/2.2.1-summing-the-integers)
-* [2.3 质因数分解](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.3-factoring-into-primes)
-* [2.4 良序集合](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.4-well-ordered-sets)
-  * [2.4.1 一个不同寻常的良序集合（可选）](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.4-well-ordered-sets/2.4.1-a-differentwell-ordered-set-optional)
+[2.2 良序证明模板](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.2-template-for-wop-proofs)
+
+* [2.2.1 整数求和](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.2-template-for-wop-proofs/2.2.1-summing-the-integers)
+
+[2.3 质因数分解](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.3-factoring-into-primes)
+
+[2.4 良序集合](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.4-well-ordered-sets)
+
+* [2.4.1 一个不同寻常的良序集合（可选）](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.4-well-ordered-sets/2.4.1-a-differentwell-ordered-set-optional)
 *  习题 2.1
 * 习题 2.2
 * 习题 2.3
