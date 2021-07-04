@@ -54,7 +54,7 @@ description: 点击标题可以跳转到对于页面
 * 习题 1.24
 * 习题 1.25
 
-### 第二章 良序原理 
+### [第二章 良序原理 ](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle)
 
 [2.1 良序证明](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.1-well-ordering-proofs)
 
