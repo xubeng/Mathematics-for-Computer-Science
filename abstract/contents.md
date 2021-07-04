@@ -62,7 +62,7 @@ description: 点击标题可以跳转到对于页面
   * [2.2.1 整数求和](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.2-template-for-wop-proofs/2.2.1-summing-the-integers)
 * [2.3 质因数分解](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.3-factoring-into-primes)
 * [2.4 良序集合](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.4-well-ordered-sets)
-  * \*\*\*\*[**2.4.1 一个不同寻常的良序集合（可选）**](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.4-well-ordered-sets/2.4.1-a-differentwell-ordered-set-optional)
+  * [2.4.1 一个不同寻常的良序集合（可选）](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle/2.4-well-ordered-sets/2.4.1-a-differentwell-ordered-set-optional)
 *  习题 2.1
 * 习题 2.2
 * 习题 2.3
@@ -89,9 +89,10 @@ description: 点击标题可以跳转到对于页面
 
 ### 第三章  逻辑公式
 
-[3.1 来自命题的命题](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.1-propositions-from-propositions)
+[3.1 来自命题的命题](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.1-propositions-from-propositions)（命题的命题） 
 
 * [3.1.1 非，与和或](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.1-propositions-from-propositions/3.1.1-not-and-and-or)
+* [3.1.2 当且仅当](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.1-propositions-from-propositions/3.1.2-if-and-only-if)
 
 ### 第四章 数学中的数据类型 
 
