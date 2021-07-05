@@ -4,11 +4,13 @@ description: 点击标题可以跳转到对于页面
 
 # 目录
 
-[引言](https://finit-xu.gitbook.io/msc20180606/i-proofs/introduction)
+## _I 证明_
 
-[0.1 参考文献](https://finit-xu.gitbook.io/msc20180606/i-proofs/0.1-references)
+### [引言](https://finit-xu.gitbook.io/msc20180606/i-proofs/introduction)
 
-### [第 一章 什么是证明](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof) <a id="zheng-ming-di-yi-zhang-shen-me-shi-zheng-ming"></a>
+#### [0.1 参考文献](https://finit-xu.gitbook.io/msc20180606/i-proofs/0.1-references)
+
+### [第一章 什么是证明](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof) <a id="zheng-ming-di-yi-zhang-shen-me-shi-zheng-ming"></a>
 
 * [1.1 命题](https://finit-xu.gitbook.io/msc20180606/i-proofs/1-what-is-a-proof/1.1-propositions)
 * [1.2 谓词](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.2-predicates)
