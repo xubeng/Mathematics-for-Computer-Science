@@ -8,7 +8,7 @@ description: 点击标题可以跳转到对于页面
 
 ### [引言](https://finit-xu.gitbook.io/msc20180606/i-proofs/introduction)
 
-#### [0.1 参考文献](https://finit-xu.gitbook.io/msc20180606/i-proofs/0.1-references)
+####     [0.1 参考文献](https://finit-xu.gitbook.io/msc20180606/i-proofs/0.1-references)
 
 ### [第一章 什么是证明](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof) <a id="zheng-ming-di-yi-zhang-shen-me-shi-zheng-ming"></a>
 
@@ -110,6 +110,8 @@ description: 点击标题可以跳转到对于页面
 ### 第七章 递归数据类型 
 
 ### 第八章 无限集合
+
+## II 结构
 
 ### 第九章 数论
 
