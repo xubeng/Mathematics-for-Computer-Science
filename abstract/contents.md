@@ -101,6 +101,8 @@ description: 点击标题可以跳转到对于页面
 * [3.1.2 当且仅当](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.1-propositions-from-propositions/3.1.2-if-and-only-if)
 * [3.1.3 蕴含](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.1-propositions-from-propositions/3.1.3-implies)
 
+[3.2 计算机程序中的命题逻辑](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.2-propositional-logic-in-computer-programs)
+
 ### 第四章 数学中的数据类型 
 
 ### 第五章 归纳 
