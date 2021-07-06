@@ -103,6 +103,8 @@ description: 点击标题可以跳转到对于页面
 
 [3.2 计算机程序中的命题逻辑](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.2-propositional-logic-in-computer-programs)
 
+* [3.2.1 真值表计算](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.2-propositional-logic-in-computer-programs/3.2.1-truth-table-calculation)
+
 ### 第四章 数学中的数据类型 
 
 ### 第五章 归纳 
