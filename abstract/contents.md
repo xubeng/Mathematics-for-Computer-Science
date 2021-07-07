@@ -104,6 +104,11 @@ description: 点击标题可以跳转到对于页面
 [3.2 计算机程序中的命题逻辑](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.2-propositional-logic-in-computer-programs)
 
 * [3.2.1 真值表计算](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.2-propositional-logic-in-computer-programs/3.2.1-truth-table-calculation)
+* [3.2.2 晦涩的符号](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.2-propositional-logic-in-computer-programs/3.2.2-cryptic-notation)
+
+[3.3 等效和有效性](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.3-equivalence-and-validity)
+
+
 
 ### 第四章 数学中的数据类型 
 
