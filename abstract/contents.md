@@ -108,6 +108,8 @@ description: 点击标题可以跳转到对于页面
 
 [3.3 等效和有效性](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.3-equivalence-and-validity)
 
+* [3.3.1 蕴含和相反](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.3-equivalence-and-validity/3.3.1-implications-and-contrapositives)
+
 
 
 ### 第四章 数学中的数据类型 
