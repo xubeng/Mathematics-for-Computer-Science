@@ -111,6 +111,11 @@ description: 点击标题可以跳转到对于页面
 * [3.3.1 蕴含和相反](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.3-equivalence-and-validity/3.3.1-implications-and-contrapositives)
 * [3.3.2 Validity and Satisfiability](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.3-equivalence-and-validity/3.3.2-validity-and-satisfiability)
 
+[3.4 命题代数](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.4-the-algebra-of-propositions)
+
+* [3.4.1 常规形式的命题](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.4-the-algebra-of-propositions/3.4.1-propositions-in-normal-form)
+* [3.4.2 证明相等性](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.4-the-algebra-of-propositions/3.4.2-proving-equivalences)
+
 
 
 ### 第四章 数学中的数据类型 
