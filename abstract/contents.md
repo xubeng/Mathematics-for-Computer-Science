@@ -113,8 +113,8 @@ description: 点击标题可以跳转到对于页面
 
 [3.4 命题代数](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.4-the-algebra-of-propositions)
 
-* [3.4.1 常规形式的命题](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.4-the-algebra-of-propositions/3.4.1-propositions-in-normal-form)
-* [3.4.2 证明相等性](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.4-the-algebra-of-propositions/3.4.2-proving-equivalences)
+* [3.4.1 常规形式的命题](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.4-the-algebra-of-propositions/3.4.1-propositions-in-normal-form)（命题范式）
+* [3.4.2 证明相等性](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.4-the-algebra-of-propositions/3.4.2-proving-equivalences)（等价性证明）
 
 
 
