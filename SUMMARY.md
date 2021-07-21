@@ -59,6 +59,7 @@
     * [3.6.2 复合量词](i-proofs/3-logical-formulas/3.6-predicate-formulas/3.6.2-mixing-quantifiers.md)
     * [3.6.3 量词顺序](i-proofs/3-logical-formulas/3.6-predicate-formulas/3.6.3-order-of-quantifiers.md)
   * [3.7 参考文献](i-proofs/3-logical-formulas/3.7-references.md)
+  * [习题 3.17](i-proofs/3-logical-formulas/problem--3.17.md)
 * [第四章 数学中的数据类型](i-proofs/4-mathematical-data-types/README.md)
   * [4.1 集合](i-proofs/4-mathematical-data-types/4.1-sets/README.md)
     * [4.1.1 一些流行的集合](i-proofs/4-mathematical-data-types/4.1-sets/4.1.1-some-popular-sets.md)
