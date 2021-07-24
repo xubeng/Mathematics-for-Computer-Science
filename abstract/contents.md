@@ -124,7 +124,7 @@ description: 点击标题可以跳转到对于页面
 * [3.6.2 复合量词](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.6-predicate-formulas/3.6.2-mixing-quantifiers)
 * [3.6.3 量词顺序](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.6-predicate-formulas/3.6.3-order-of-quantifiers)
 
-### 第四章 数学中的数据类型 
+### [第四章 数学中的数据类型 ](https://finit-xu.gitbook.io/msc20180606/i-proofs/4-mathematical-data-types)
 
 ### 第五章 归纳 
 
