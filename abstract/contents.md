@@ -8,12 +8,12 @@ description: 点击标题可以跳转到对于页面
 
 ### [引言](https://finit-xu.gitbook.io/msc20180606/i-proofs/introduction)
 
-####     [0.1 参考文献](https://finit-xu.gitbook.io/msc20180606/i-proofs/0.1-references)
+####     ****[**0.1 参考文献**](https://finit-xu.gitbook.io/msc20180606/i-proofs/0.1-references)\*\*\*\*
 
-### [第一章 什么是证明](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof) <a id="zheng-ming-di-yi-zhang-shen-me-shi-zheng-ming"></a>
+### \*\*\*\*[第一章 什么是证明](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof) <a id="zheng-ming-di-yi-zhang-shen-me-shi-zheng-ming"></a>
 
-* [1.1 命题](https://finit-xu.gitbook.io/msc20180606/i-proofs/1-what-is-a-proof/1.1-propositions)
-* [1.2 谓词](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.2-predicates)
+* \*\*\*\*[**1.1 命题**](https://finit-xu.gitbook.io/msc20180606/i-proofs/1-what-is-a-proof/1.1-propositions)\*\*\*\*
+* \*\*\*\*[1.2 谓词](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.2-predicates)
 * [1.3 公理化方法](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.3-the-axiomatic-method)
 * [1.4 我们的公理](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.4-our-axioms)
   * [1.4.1 逻辑推理](https://finit-xu.gitbook.io/msc20180606/i-proofs/1-what-is-a-proof/1.4-our-axioms/1.4.1-logical-deductions)
@@ -97,8 +97,8 @@ description: 点击标题可以跳转到对于页面
 
 [3.1 来自命题的命题](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.1-propositions-from-propositions)（命题的命题） 
 
-* [3.1.1 非，与和或](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.1-propositions-from-propositions/3.1.1-not-and-and-or)
-* [3.1.2 当且仅当](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.1-propositions-from-propositions/3.1.2-if-and-only-if)
+* \*\*\*\*[**3.1.1 非，与和或**](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.1-propositions-from-propositions/3.1.1-not-and-and-or)\*\*\*\*
+* \*\*\*\*[3.1.2 当且仅当](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.1-propositions-from-propositions/3.1.2-if-and-only-if)
 * [3.1.3 蕴含](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.1-propositions-from-propositions/3.1.3-implies)
 
 [3.2 计算机程序中的命题逻辑](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.2-propositional-logic-in-computer-programs)
@@ -106,17 +106,17 @@ description: 点击标题可以跳转到对于页面
 * [3.2.1 真值表计算](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.2-propositional-logic-in-computer-programs/3.2.1-truth-table-calculation)
 * [3.2.2 晦涩的符号](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.2-propositional-logic-in-computer-programs/3.2.2-cryptic-notation)（符号表示）
 
-[3.3 等效和有效性](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.3-equivalence-and-validity)
+\*\*\*\*[**3.3 等效和有效性**](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.3-equivalence-and-validity)\*\*\*\*
 
-* [3.3.1 蕴含和相反](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.3-equivalence-and-validity/3.3.1-implications-and-contrapositives)
-* [3.3.2 Validity and Satisfiability](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.3-equivalence-and-validity/3.3.2-validity-and-satisfiability)
+* \*\*\*\*[**3.3.1 蕴含和相反**](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.3-equivalence-and-validity/3.3.1-implications-and-contrapositives)\*\*\*\*
+* \*\*\*\*[**3.3.2 Validity and Satisfiability**](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.3-equivalence-and-validity/3.3.2-validity-and-satisfiability)\*\*\*\*
 
-[3.4 命题代数](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.4-the-algebra-of-propositions)
+\*\*\*\*[**3.4 命题代数**](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.4-the-algebra-of-propositions)\*\*\*\*
 
-* [3.4.1 常规形式的命题](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.4-the-algebra-of-propositions/3.4.1-propositions-in-normal-form)（命题范式）
-* [3.4.2 证明相等性](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.4-the-algebra-of-propositions/3.4.2-proving-equivalences)（等价性证明）
+* \*\*\*\*[**3.4.1 常规形式的命题**](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.4-the-algebra-of-propositions/3.4.1-propositions-in-normal-form)**（命题范式）**
+* \*\*\*\*[**3.4.2 证明相等性**](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.4-the-algebra-of-propositions/3.4.2-proving-equivalences)**（等价性证明）**
 
-[3.5 布尔可满足性问题](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.5-the-sat-problem)（SAT问题）
+\*\*\*\*[**3.5 布尔可满足性问题**](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.5-the-sat-problem)**（SAT问题）**
 
 \*\*\*\*[**3.6 谓词公式**](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.6-predicate-formulas)\*\*\*\*
 
