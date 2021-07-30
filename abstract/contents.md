@@ -129,7 +129,7 @@ description: 点击标题可以跳转到对于页面
 \*\*\*\*[**4.1 集合**](https://finit-xu.gitbook.io/msc20180606/i-proofs/4-mathematical-data-types/4.1-sets)\*\*\*\*
 
 * \*\*\*\*[**4.1.1 一些流行的集合**](https://finit-xu.gitbook.io/msc20180606/i-proofs/4-mathematical-data-types/4.1-sets/4.1.1-some-popular-sets)
-* \*\*\*\*
+* **4.1.2 比较和组合集合**
 
 \*\*\*\*
 
