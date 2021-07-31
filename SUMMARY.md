@@ -64,7 +64,7 @@
   * [4.1 集合](i-proofs/4-mathematical-data-types/4.1-sets/README.md)
     * [4.1.1 一些流行的集合](i-proofs/4-mathematical-data-types/4.1-sets/4.1.1-some-popular-sets.md)
     * [4.1.2 比较和组合集合](i-proofs/4-mathematical-data-types/4.1-sets/4.1.2-comparing-and-combining-sets.md)
-    * [4.1.3  幂集合](i-proofs/4-mathematical-data-types/4.1-sets/4.1.3-power-set.md)
+    * [4.1.3 幂集合](i-proofs/4-mathematical-data-types/4.1-sets/4.1.3-power-set.md)
     * [4.1.4 集合建构式符号](i-proofs/4-mathematical-data-types/4.1-sets/4.1.4-set-builder-notation.md)
     * [4.1.5 Proving Set Equalities](i-proofs/4-mathematical-data-types/4.1-sets/4.1.5-proving-set-equalities.md)
   * [4.2 序列](i-proofs/4-mathematical-data-types/4.2-sequences.md)
