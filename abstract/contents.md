@@ -128,12 +128,12 @@ description: 点击标题可以跳转到对于页面
 
 \*\*\*\*[**4.1 集合**](https://finit-xu.gitbook.io/msc20180606/i-proofs/4-mathematical-data-types/4.1-sets)\*\*\*\*
 
-* \*\*\*\*[**4.1.1 一些流行的集合**](https://finit-xu.gitbook.io/msc20180606/i-proofs/4-mathematical-data-types/4.1-sets/4.1.1-some-popular-sets)
-* \*\*\*\*[**4.1.2 比较和组合集合**](https://finit-xu.gitbook.io/msc20180606/i-proofs/4-mathematical-data-types/4.1-sets/4.1.2-comparing-and-combining-sets)
-* \*\*\*\*[**4.1.3 幂集合**](https://finit-xu.gitbook.io/msc20180606/i-proofs/4-mathematical-data-types/4.1-sets/4.1.3-power-set)
-* \*\*\*\*[**4.1.4 集合建构式符号**](https://finit-xu.gitbook.io/msc20180606/i-proofs/4-mathematical-data-types/4.1-sets/4.1.4-set-builder-notation)
+* \*\*\*\*[**4.1.1 一些流行的集合**](https://finit-xu.gitbook.io/msc20180606/i-proofs/4-mathematical-data-types/4.1-sets/4.1.1-some-popular-sets)\*\*\*\*
+* \*\*\*\*[**4.1.2 比较和组合集合**](https://finit-xu.gitbook.io/msc20180606/i-proofs/4-mathematical-data-types/4.1-sets/4.1.2-comparing-and-combining-sets)\*\*\*\*
+* \*\*\*\*[**4.1.3 幂集合**](https://finit-xu.gitbook.io/msc20180606/i-proofs/4-mathematical-data-types/4.1-sets/4.1.3-power-set)\*\*\*\*
+* \*\*\*\*[**4.1.4 集合建构式符号**](https://finit-xu.gitbook.io/msc20180606/i-proofs/4-mathematical-data-types/4.1-sets/4.1.4-set-builder-notation)\*\*\*\*
 
-\*\*\*\*[**4.2 序列**](https://finit-xu.gitbook.io/msc20180606/i-proofs/4-mathematical-data-types/4.2-sequences)
+\*\*\*\*[**4.2 序列**](https://finit-xu.gitbook.io/msc20180606/i-proofs/4-mathematical-data-types/4.2-sequences)\*\*\*\*
 
 \*\*\*\*
 
