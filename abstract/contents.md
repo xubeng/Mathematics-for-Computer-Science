@@ -123,6 +123,9 @@ description: 点击标题可以跳转到对于页面
 * \*\*\*\*[**3.6.1 量词**](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.6-predicate-formulas/3.6.1-quantifiers)\*\*\*\*
 * \*\*\*\*[**3.6.2 复合量词**](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.6-predicate-formulas/3.6.2-mixing-quantifiers)**（混合量词）**
 * \*\*\*\*[**3.6.3 量词顺序**](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.6-predicate-formulas/3.6.3-order-of-quantifiers)\*\*\*\*
+* \*\*\*\*[**3.6.4 Variables Over One Domain**](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.6-predicate-formulas/3.6.4-variables-over-one-domain)\*\*\*\*
+* \*\*\*\*[**3.6.5 Negating Quantifiers**](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.6-predicate-formulas/3.6.5-negating-quantifiers)\*\*\*\*
+* \*\*\*\*[**3.6.6 Validity for Predicate Formulas**](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.6-predicate-formulas/3.6.6-validity-for-predicate-formulas)\*\*\*\*
 
 ### \*\*\*\*[**第四章 数学中的数据类型** ](https://finit-xu.gitbook.io/msc20180606/i-proofs/4-mathematical-data-types)\*\*\*\*
 
