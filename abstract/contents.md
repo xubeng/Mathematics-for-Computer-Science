@@ -30,31 +30,35 @@ description: 点击标题可以跳转到对于页面
 * \*\*\*\*[**1.8 反证法**](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.8-proof-by-contradiction)\*\*\*\*
 * \*\*\*\*[**1.9 实践出“良证”**](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.9-good-proofs-in-practice)\*\*\*\*
 * \*\*\*\*[**1.10 参考文献**](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.10-references)\*\*\*\*
-* **习题 1.1**
-* **习题 1.2**
-* **习题 1.3**
-* **习题 1.4**
-* **习题 1.5**
-* **习题 1.5**
-* **习题 1.7**
-* **习题 1.8**
-* **习题 1.9**
-* **习题 1.10**
-* **习题 1.11**
-* **习题 1.12**
-* **习题 1.13**
-* **习题 1.14**
-* **习题 1.15**
-* **习题 1.16**
-* **习题 1.17**
-* **习题 1.18**
-* **习题 1.19**
-* **习题 1.20**
-* **习题 1.21**
-* **习题 1.22**
-* **习题 1.23**
-* **习题 1.24**
-* **习题 1.25**
+* **1.1 节习题**
+  * **习题 1.1**
+  * **习题 1.2**
+  * **习题 1.3**
+  * **习题 1.4**
+  * **习题 1.5**
+* **1.5 节习题**
+  * **习题 1.6**
+* **1.7 节习题**
+  * **习题 1.7**
+  * **习题 1.8**
+  * **习题 1.9**
+  * **习题 1.10**
+  * **习题 1.11**
+* **1.8 节习题**
+  * **习题 1.12**
+  * **习题 1.13**
+  * **习题 1.14**
+  * **习题 1.15**
+  * **习题 1.16**
+  * **习题 1.17**
+  * **习题 1.18**
+  * **习题 1.19**
+  * **习题 1.20**
+  * **习题 1.21**
+  * **习题 1.22**
+  * **习题 1.23**
+  * **习题 1.24**
+  * **习题 1.25**
 
 ### \*\*\*\*[**第二章 良序原理**](https://finit-xu.gitbook.io/msc20180606/i-proofs/2-the-well-ordering-principle)\*\*\*\*
 
@@ -126,6 +130,8 @@ description: 点击标题可以跳转到对于页面
 * \*\*\*\*[**3.6.4 Variables Over One Domain**](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.6-predicate-formulas/3.6.4-variables-over-one-domain)\*\*\*\*
 * \*\*\*\*[**3.6.5 Negating Quantifiers**](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.6-predicate-formulas/3.6.5-negating-quantifiers)\*\*\*\*
 * \*\*\*\*[**3.6.6 Validity for Predicate Formulas**](https://finit-xu.gitbook.io/msc20180606/i-proofs/3-logical-formulas/3.6-predicate-formulas/3.6.6-validity-for-predicate-formulas)\*\*\*\*
+
+\*\*\*\*
 
 ### \*\*\*\*[**第四章 数学中的数据类型** ](https://finit-xu.gitbook.io/msc20180606/i-proofs/4-mathematical-data-types)\*\*\*\*
 
