@@ -156,11 +156,11 @@ description: 点击标题可以跳转到对于页面
 
 ## **II 结构**
 
-### **第九章 数论**
+### \*\*\*\*[**第九章 数论**](https://devcloud.cn-north-5.huaweicloud.com/scrum/4a593e346bad4ab9bb963f18034b5489/task/detail/1388318)
 
-### **第十章 有向图和偏序** 
+### \*\*\*\*[**第十章 有向图和偏序** ](https://finit-xu.gitbook.io/msc20180606/ii-structures/10-directed-graphs-and-partial-orders)
 
-### **第十一章 通信网**
+### \*\*\*\*[**第十一章 通信网**](https://finit-xu.gitbook.io/msc20180606/ii-structures/11-communication-networks)
 
 ### **第十二章 简单图** 
 
