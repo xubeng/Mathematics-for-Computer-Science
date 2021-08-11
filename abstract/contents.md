@@ -162,7 +162,7 @@ description: 点击标题可以跳转到对于页面
 
 ### \*\*\*\*[**第十一章 通信网**](https://finit-xu.gitbook.io/msc20180606/ii-structures/11-communication-networks)
 
-### **第十二章 简单图** 
+### \*\*\*\*[**第十二章 简单图** ](https://finit-xu.gitbook.io/msc20180606/ii-structures/12-simple-graphs)
 
 ### **第十三章 平面图** 
 
