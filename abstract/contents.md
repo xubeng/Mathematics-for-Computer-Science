@@ -166,7 +166,7 @@ description: 点击标题可以跳转到对于页面
 
 ### **第十三章 平面图** 
 
-### **第十四章 总和与渐近性** 
+### \*\*\*\*[**第十四章 总和与渐近性** ](https://finit-xu.gitbook.io/msc20180606/iii-counting/14-sums-and-asymptotics)
 
 ### **第十五章 基数规则** 
 
