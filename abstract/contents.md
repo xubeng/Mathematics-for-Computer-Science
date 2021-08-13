@@ -170,7 +170,7 @@ description: 点击标题可以跳转到对于页面
 
 ### \*\*\*\*[**第十五章 基数规则** ](https://finit-xu.gitbook.io/msc20180606/iii-counting/15-cardinality-rules)
 
-### **第十六章 生产函数** 
+### \*\*\*\*[**第十六章 生产函数** ](https://finit-xu.gitbook.io/msc20180606/iii-counting/16-generating-functions)\*\*\*\*
 
 ### **第十七章 事件与概率空间** 
 
