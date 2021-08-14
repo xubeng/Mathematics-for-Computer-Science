@@ -174,7 +174,7 @@ description: 点击标题可以跳转到对于页面
 
 ### \*\*\*\*[**第十七章 事件与概率空间** ](https://finit-xu.gitbook.io/msc20180606/iv-probability/17-events-and-probability-spaces)
 
-### **第十八章 条件概率** 
+### \*\*\*\*[**第十八章 条件概率** ](https://finit-xu.gitbook.io/msc20180606/iv-probability/18-conditional-probability)
 
 ### **第十九章 随机变量** 
 
