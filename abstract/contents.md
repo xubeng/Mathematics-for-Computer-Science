@@ -180,7 +180,7 @@ description: 点击标题可以跳转到对于页面
 
 ### **第二十章 偏离平均值** 
 
-### 第二十一章 随机漫步
+### [第二十一章 随机漫步](https://finit-xu.gitbook.io/msc20180606/iv-probability/21-random-walks)
 
 ### **第二十二章 递归**
 
