@@ -176,7 +176,7 @@ description: 点击标题可以跳转到对于页面
 
 ### \*\*\*\*[**第十八章 条件概率** ](https://finit-xu.gitbook.io/msc20180606/iv-probability/18-conditional-probability)
 
-### **第十九章 随机变量** 
+### \*\*\*\*[**第十九章 随机变量** ](https://finit-xu.gitbook.io/msc20180606/iv-probability/19-random-variables)
 
 ### **第二十章 偏离平均值** 
 
