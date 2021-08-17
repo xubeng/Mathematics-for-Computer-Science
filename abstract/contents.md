@@ -166,11 +166,15 @@ description: 点击标题可以跳转到对于页面
 
 ### \*\*\*\*[**第十三章 平面图** ](https://finit-xu.gitbook.io/msc20180606/ii-structures/13-planar-graphs)
 
+## **III 计数**
+
 ### \*\*\*\*[**第十四章 总和与渐近性** ](https://finit-xu.gitbook.io/msc20180606/iii-counting/14-sums-and-asymptotics)
 
 ### \*\*\*\*[**第十五章 基数规则** ](https://finit-xu.gitbook.io/msc20180606/iii-counting/15-cardinality-rules)
 
 ### \*\*\*\*[**第十六章 生产函数** ](https://finit-xu.gitbook.io/msc20180606/iii-counting/16-generating-functions)\*\*\*\*
+
+## **IV 概率**
 
 ### \*\*\*\*[**第十七章 事件与概率空间** ](https://finit-xu.gitbook.io/msc20180606/iv-probability/17-events-and-probability-spaces)
 
@@ -181,6 +185,8 @@ description: 点击标题可以跳转到对于页面
 ### \*\*\*\*[**第二十章 偏离平均值** ](https://finit-xu.gitbook.io/msc20180606/iv-probability/20-deviation-from-the-mean)
 
 ### [第二十一章 随机漫步](https://finit-xu.gitbook.io/msc20180606/iv-probability/21-random-walks)
+
+## **V 递归**
 
 ### \*\*\*\*[**第二十二章 递归**](https://finit-xu.gitbook.io/msc20180606/v-recurrences/22-recurrences)\*\*\*\*
 
