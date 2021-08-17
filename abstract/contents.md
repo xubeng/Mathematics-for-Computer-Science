@@ -178,7 +178,7 @@ description: 点击标题可以跳转到对于页面
 
 ### \*\*\*\*[**第十九章 随机变量** ](https://finit-xu.gitbook.io/msc20180606/iv-probability/19-random-variables)
 
-### **第二十章 偏离平均值** 
+### \*\*\*\*[**第二十章 偏离平均值** ](https://finit-xu.gitbook.io/msc20180606/iv-probability/20-deviation-from-the-mean)
 
 ### [第二十一章 随机漫步](https://finit-xu.gitbook.io/msc20180606/iv-probability/21-random-walks)
 
