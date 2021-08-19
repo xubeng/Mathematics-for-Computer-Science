@@ -174,7 +174,7 @@ description: 点击标题可以跳转到对于页面
 
 ### \*\*\*\*[**第十六章 生产函数** ](https://finit-xu.gitbook.io/msc20180606/iii-counting/16-generating-functions)\*\*\*\*
 
-## **IV 概率**
+## \*\*\*\*[**IV 概率**](https://finit-xu.gitbook.io/msc20180606/iv-probability/introduction)\*\*\*\*
 
 ### \*\*\*\*[**第十七章 事件与概率空间** ](https://finit-xu.gitbook.io/msc20180606/iv-probability/17-events-and-probability-spaces)
 
