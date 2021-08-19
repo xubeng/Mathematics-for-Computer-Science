@@ -186,7 +186,7 @@ description: 点击标题可以跳转到对于页面
 
 ### [第二十一章 随机漫步](https://finit-xu.gitbook.io/msc20180606/iv-probability/21-random-walks)
 
-## **V 递归**
+## \*\*\*\*[**V 递归**](https://finit-xu.gitbook.io/msc20180606/v-recurrences/introduction)\*\*\*\*
 
 ### \*\*\*\*[**第二十二章 递归**](https://finit-xu.gitbook.io/msc20180606/v-recurrences/22-recurrences)\*\*\*\*
 
