@@ -182,7 +182,8 @@
   * [16.1 无穷级数](iii-counting/16-generating-functions/16.1-infinite-series.md)
   * [16.2 使用通用函数计算](iii-counting/16-generating-functions/16.2-counting-with-generating-functions.md)
   * [16.3 Partial Fractions](iii-counting/16-generating-functions/16.3-partial-fractions.md)
-  * [16.4 解决线性递归](iii-counting/16-generating-functions/16.4-solving-linear-recurrences.md)
+  * [16.4 解决线性递归](iii-counting/16-generating-functions/16.4-solving-linear-recurrences/README.md)
+    * [16.4.2 汉诺塔](iii-counting/16-generating-functions/16.4-solving-linear-recurrences/16.4.2-han-nuo-ta.md)
   * [16.5 Formal Power Series](iii-counting/16-generating-functions/16.5-formal-power-series.md)
   * [16.6 引用](iii-counting/16-generating-functions/16.6-references.md)
 
