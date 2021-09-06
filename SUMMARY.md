@@ -228,7 +228,8 @@
 
 * [引言](v-recurrences/introduction.md)
 * [第二十二章 递归](v-recurrences/22-recurrences/README.md)
-  * [22.1 汉诺塔](v-recurrences/22-recurrences/22.1-the-towers-of-hanoi.md)
+  * [22.1 汉诺塔](v-recurrences/22-recurrences/22.1-the-towers-of-hanoi/README.md)
+    * [22.1.1 上边界陷阱](v-recurrences/22-recurrences/22.1-the-towers-of-hanoi/22.1.1-the-upper-bound-trap.md)
   * [22.2 归并排序](v-recurrences/22-recurrences/22.2-merge-sort.md)
   * [22.3 线性递归](v-recurrences/22-recurrences/22.3-linear-recurrences.md)
   * [22.4 分而治之递归](v-recurrences/22-recurrences/22.4-divide-and-conquer-recurrences.md)
