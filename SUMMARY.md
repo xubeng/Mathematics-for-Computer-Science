@@ -233,6 +233,7 @@
     * [22.1.2 插拔](v-recurrences/22-recurrences/22.1-the-towers-of-hanoi/22.1.2-plug-and-chug.md)
   * [22.2 归并排序](v-recurrences/22-recurrences/22.2-merge-sort/README.md)
     * [22.2.1 找到一个递归](v-recurrences/22-recurrences/22.2-merge-sort/22.2.1-finding-a-recurrence.md)
+    * [22.2.2 解决递归](v-recurrences/22-recurrences/22.2-merge-sort/22.2.2-solving-the-recurrence.md)
   * [22.3 线性递归](v-recurrences/22-recurrences/22.3-linear-recurrences.md)
   * [22.4 分而治之递归](v-recurrences/22-recurrences/22.4-divide-and-conquer-recurrences.md)
   * [22.5 对递归的感受](v-recurrences/22-recurrences/22.5-a-feel-for-recurrences.md)
