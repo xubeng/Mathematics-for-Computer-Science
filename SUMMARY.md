@@ -236,6 +236,7 @@
     * [22.2.2 解决递归](v-recurrences/22-recurrences/22.2-merge-sort/22.2.2-solving-the-recurrence.md)
   * [22.3 线性递归](v-recurrences/22-recurrences/22.3-linear-recurrences/README.md)
     * [22.3.1 爬楼梯](v-recurrences/22-recurrences/22.3-linear-recurrences/22.3.1-climbing-stairs.md)
+    * [22.3.2 解决齐次线性复发](v-recurrences/22-recurrences/22.3-linear-recurrences/22.3.2-solving-homogeneous-linear-recurrences.md)
   * [22.4 分而治之递归](v-recurrences/22-recurrences/22.4-divide-and-conquer-recurrences.md)
   * [22.5 对递归的感受](v-recurrences/22-recurrences/22.5-a-feel-for-recurrences.md)
 
