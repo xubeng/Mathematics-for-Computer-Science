@@ -238,7 +238,8 @@
     * [22.3.1 爬楼梯](v-recurrences/22-recurrences/22.3-linear-recurrences/22.3.1-climbing-stairs.md)
     * [22.3.2 解决齐次线性复发](v-recurrences/22-recurrences/22.3-linear-recurrences/22.3.2-solving-homogeneous-linear-recurrences.md)
     * [22.3.3 解决通用线性递归](v-recurrences/22-recurrences/22.3-linear-recurrences/22.3.3-solving-general-linear-recurrences.md)
-  * [22.4 分而治之递归](v-recurrences/22-recurrences/22.4-divide-and-conquer-recurrences.md)
+  * [22.4 分而治之递归](v-recurrences/22-recurrences/22.4-divide-and-conquer-recurrences/README.md)
+    * [22.4.1 The Akra-Bazzi Formula](v-recurrences/22-recurrences/22.4-divide-and-conquer-recurrences/22.4.1-the-akra-bazzi-formula.md)
   * [22.5 对递归的感受](v-recurrences/22-recurrences/22.5-a-feel-for-recurrences.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossary-of-symbols-index"></a>
