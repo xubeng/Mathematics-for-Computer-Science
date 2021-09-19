@@ -242,6 +242,7 @@
     * [22.4.1 The Akra-Bazzi Formula](v-recurrences/22-recurrences/22.4-divide-and-conquer-recurrences/22.4.1-the-akra-bazzi-formula.md)
     * [22.4.2 两个技术问题](v-recurrences/22-recurrences/22.4-divide-and-conquer-recurrences/22.4.2-two-technical-issues.md)
     * [22.4.3 The Akra-Bazzi Theorem](v-recurrences/22-recurrences/22.4-divide-and-conquer-recurrences/22.4.3-the-akra-bazzi-theorem.md)
+    * [22.4.4 The Master Theorem](v-recurrences/22-recurrences/22.4-divide-and-conquer-recurrences/22.4.4-the-master-theorem.md)
   * [22.5 对递归的感受](v-recurrences/22-recurrences/22.5-a-feel-for-recurrences.md)
 
 ## 参考文献、符号术语表、索引 <a id="bibliography-glossary-of-symbols-index"></a>
