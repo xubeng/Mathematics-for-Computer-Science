@@ -146,6 +146,8 @@ description: 点击标题可以跳转到对于页面
 
 \*\*\*\*[**4.3 函数**](https://finit-xu.gitbook.io/msc20180606/i-proofs/4-mathematical-data-types/4.3-functions)
 
+\*\*\*\*[**4.4 二元关系**](https://finit-xu.gitbook.io/msc20180606/i-proofs/4-mathematical-data-types/4.4-binary-relations)
+
 \*\*\*\*
 
 ### \*\*\*\*[**第五章 归纳** ](https://finit-xu.gitbook.io/msc20180606/i-proofs/5-induction)
