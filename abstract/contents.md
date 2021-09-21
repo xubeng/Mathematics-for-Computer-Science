@@ -148,11 +148,9 @@ description: 点击标题可以跳转到对于页面
 
 * \*\*\*\*[**4.3.1 域和映射**](https://finit-xu.gitbook.io/msc20180606/i-proofs/4-mathematical-data-types/4.3-functions/4.3.1-domains-and-images)
 
-  \*\*\*\*
-
-
-
 \*\*\*\*[**4.4 二元关系**](https://finit-xu.gitbook.io/msc20180606/i-proofs/4-mathematical-data-types/4.4-binary-relations)
+
+* \*\*\*\*[**4.5 有限基数**](https://finit-xu.gitbook.io/msc20180606/i-proofs/4-mathematical-data-types/4.5-finite-cardinality)\*\*\*\*
 
 \*\*\*\*
 
