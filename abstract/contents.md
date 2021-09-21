@@ -152,10 +152,9 @@ description: 点击标题可以跳转到对于页面
 
 * \*\*\*\*[**4.5 有限基数**](https://finit-xu.gitbook.io/msc20180606/i-proofs/4-mathematical-data-types/4.5-finite-cardinality)\*\*\*\*
 
-\*\*\*\*
-
 ### \*\*\*\*[**第五章 归纳** ](https://finit-xu.gitbook.io/msc20180606/i-proofs/5-induction)
 
+* 
 ### \*\*\*\*[**第六章 状态机**](https://finit-xu.gitbook.io/msc20180606/i-proofs/6-state-machines)
 
 ### \*\*\*\*[**第七章 递归数据类型** ](https://finit-xu.gitbook.io/msc20180606/i-proofs/7-recursive-data-types)
