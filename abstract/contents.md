@@ -153,6 +153,7 @@ description: 点击标题可以跳转到对于页面
 ### \*\*\*\*[**第五章 归纳** ](https://finit-xu.gitbook.io/msc20180606/i-proofs/5-induction)
 
 * \*\*\*\*[**5.1 一般归纳法**](https://finit-xu.gitbook.io/msc20180606/i-proofs/5-induction/5.1-ordinary-induction)\*\*\*\*
+* \*\*\*\*[**5.2 强归纳法**](../i-proofs/5-induction/5.2-strong-induction.md)\*\*\*\*
 
 ### \*\*\*\*[**第六章 状态机**](https://finit-xu.gitbook.io/msc20180606/i-proofs/6-state-machines)
 
