@@ -152,7 +152,8 @@ description: 点击标题可以跳转到对于页面
 
 ### \*\*\*\*[**第五章 归纳** ](https://finit-xu.gitbook.io/msc20180606/i-proofs/5-induction)
 
-* 
+* \*\*\*\*[**5.1 一般归纳法**](https://finit-xu.gitbook.io/msc20180606/i-proofs/5-induction/5.1-ordinary-induction)\*\*\*\*
+
 ### \*\*\*\*[**第六章 状态机**](https://finit-xu.gitbook.io/msc20180606/i-proofs/6-state-machines)
 
 ### \*\*\*\*[**第七章 递归数据类型** ](https://finit-xu.gitbook.io/msc20180606/i-proofs/7-recursive-data-types)
