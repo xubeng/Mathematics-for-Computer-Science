@@ -157,6 +157,8 @@ description: 点击标题可以跳转到对于页面
 
 ### \*\*\*\*[**第六章 状态机**](https://finit-xu.gitbook.io/msc20180606/i-proofs/6-state-machines)
 
+* \*\*\*\*[**6.1 状态和过渡**](https://finit-xu.gitbook.io/msc20180606/i-proofs/6-state-machines/6.1-states-and-transitions)\*\*\*\*
+
 ### \*\*\*\*[**第七章 递归数据类型** ](https://finit-xu.gitbook.io/msc20180606/i-proofs/7-recursive-data-types)
 
 ### \*\*\*\*[**第八章 无限集合**](https://finit-xu.gitbook.io/msc20180606/i-proofs/8-infinite-sets)
