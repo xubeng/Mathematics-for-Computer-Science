@@ -158,6 +158,7 @@ description: 点击标题可以跳转到对于页面
 ### \*\*\*\*[**第六章 状态机**](https://finit-xu.gitbook.io/msc20180606/i-proofs/6-state-machines)
 
 * \*\*\*\*[**6.1 状态和过渡**](https://finit-xu.gitbook.io/msc20180606/i-proofs/6-state-machines/6.1-states-and-transitions)\*\*\*\*
+* \*\*\*\*[**6.2 不变原则**](https://finit-xu.gitbook.io/msc20180606/i-proofs/6-state-machines/6.2-the-invariant-principle)\*\*\*\*
 
 ### \*\*\*\*[**第七章 递归数据类型** ](https://finit-xu.gitbook.io/msc20180606/i-proofs/7-recursive-data-types)
 
