@@ -160,6 +160,7 @@ description: 点击标题可以跳转到对于页面
 * \*\*\*\*[**6.1 状态和过渡**](https://finit-xu.gitbook.io/msc20180606/i-proofs/6-state-machines/6.1-states-and-transitions)\*\*\*\*
 * \*\*\*\*[**6.2 不变原则**](https://finit-xu.gitbook.io/msc20180606/i-proofs/6-state-machines/6.2-the-invariant-principle)\*\*\*\*
 * \*\*\*\*[**6.3 部分变更和终止**](https://finit-xu.gitbook.io/msc20180606/i-proofs/6-state-machines/6.3-partial-correctness-and-termination)\*\*\*\*
+* \*\*\*\*[**6.4 稳定婚姻问题**](https://finit-xu.gitbook.io/msc20180606/i-proofs/6-state-machines/6.4-the-stable-marriage-problem)\*\*\*\*
 
 ### \*\*\*\*[**第七章 递归数据类型** ](https://finit-xu.gitbook.io/msc20180606/i-proofs/7-recursive-data-types)
 
