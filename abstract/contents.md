@@ -164,6 +164,8 @@ description: 点击标题可以跳转到对于页面
 
 ### \*\*\*\*[**第七章 递归数据类型** ](https://finit-xu.gitbook.io/msc20180606/i-proofs/7-recursive-data-types)
 
+* \*\*\*\*[**7.1 递归定义和结构归纳**](https://finit-xu.gitbook.io/msc20180606/i-proofs/7-recursive-data-types/7.1-recursive-definitions-and-structural-induction)
+
 ### \*\*\*\*[**第八章 无限集合**](https://finit-xu.gitbook.io/msc20180606/i-proofs/8-infinite-sets)
 
 ## \*\*\*\*[**II 结构**](https://finit-xu.gitbook.io/msc20180606/ii-structures/introduction)\*\*\*\*
