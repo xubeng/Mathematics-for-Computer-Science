@@ -168,6 +168,7 @@ description: 点击标题可以跳转到对于页面
 * \*\*\*\*[**7.2 匹配括弧的字符串**](https://finit-xu.gitbook.io/msc20180606/i-proofs/7-recursive-data-types/7.2-strings-of-matched-brackets)
 * \*\*\*\*[**7.3 自然数的递归函数**](https://finit-xu.gitbook.io/msc20180606/i-proofs/7-recursive-data-types/7.3-recursive-functions-on-nonnegative-integers)
 * \*\*\*\*[**7.4 算术表达式**](https://finit-xu.gitbook.io/msc20180606/i-proofs/7-recursive-data-types/7.4-arithmetic-expressions)\*\*\*\*
+* **7.5 关于一个数据类型的游戏**
 
 ### \*\*\*\*[**第八章 无限集合**](https://finit-xu.gitbook.io/msc20180606/i-proofs/8-infinite-sets)
 
