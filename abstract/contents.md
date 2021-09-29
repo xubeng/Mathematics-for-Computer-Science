@@ -174,6 +174,8 @@ description: 点击标题可以跳转到对于页面
 
 ### \*\*\*\*[**第八章 无限集合**](https://finit-xu.gitbook.io/msc20180606/i-proofs/8-infinite-sets)
 
+* **8.1 无限基数**
+
 ## \*\*\*\*[**II 结构**](https://finit-xu.gitbook.io/msc20180606/ii-structures/introduction)\*\*\*\*
 
 ### \*\*\*\*[**第九章 数论**](https://devcloud.cn-north-5.huaweicloud.com/scrum/4a593e346bad4ab9bb963f18034b5489/task/detail/1388318)
