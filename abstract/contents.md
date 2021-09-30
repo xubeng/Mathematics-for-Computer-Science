@@ -175,6 +175,7 @@ description: 点击标题可以跳转到对于页面
 ### \*\*\*\*[**第八章 无限集合**](https://finit-xu.gitbook.io/msc20180606/i-proofs/8-infinite-sets)
 
 * \*\*\*\*[**8.1 无限基数**](https://finit-xu.gitbook.io/msc20180606/i-proofs/8-infinite-sets/8.1-infinite-cardinality)
+* \*\*\*\*[**8.2 暂停问题**](https://finit-xu.gitbook.io/msc20180606/i-proofs/8-infinite-sets/8.2-the-halting-problem)\*\*\*\*
 
 ## \*\*\*\*[**II 结构**](https://finit-xu.gitbook.io/msc20180606/ii-structures/introduction)\*\*\*\*
 
