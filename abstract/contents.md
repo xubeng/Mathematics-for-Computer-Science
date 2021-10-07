@@ -186,7 +186,7 @@ description: 点击标题可以跳转到对于页面
 ### \*\*\*\*[**第九章 数论**](https://devcloud.cn-north-5.huaweicloud.com/scrum/4a593e346bad4ab9bb963f18034b5489/task/detail/1388318)
 
 * \*\*\*\*[**9.1 整除性**](https://finit-xu.gitbook.io/msc20180606/ii-structures/9-number-theory/9.1-divisibility)
-* **9.2 最大公因子**
+* \*\*\*\*[**9.2 最大公因子**](https://finit-xu.gitbook.io/msc20180606/ii-structures/9-number-theory/9.2-the-greatest-common-divisor)
 
 ### \*\*\*\*[**第十章 有向图和偏序** ](https://finit-xu.gitbook.io/msc20180606/ii-structures/10-directed-graphs-and-partial-orders)
 
