@@ -188,8 +188,8 @@ description: 点击标题可以跳转到对于页面
 * ****[**9.1 整除性**](https://finit-xu.gitbook.io/msc20180606/ii-structures/9-number-theory/9.1-divisibility)
 * ****[**9.2 最大公因子**](https://finit-xu.gitbook.io/msc20180606/ii-structures/9-number-theory/9.2-the-greatest-common-divisor)
 * ****[**9.3 质数的秘密**](https://finit-xu.gitbook.io/msc20180606/ii-structures/9-number-theory/9.3-prime-mysteries)****
-* 9.4 算术基本定理\
-
+* [9.4 算术基本定理\
+  ](https://finit-xu.gitbook.io/msc20180606/ii-structures/9-number-theory/9.4-the-fundamental-theorem-of-arithmetic)
 
 ### ****[**第十章 有向图和偏序 **](https://finit-xu.gitbook.io/msc20180606/ii-structures/10-directed-graphs-and-partial-orders)
 
