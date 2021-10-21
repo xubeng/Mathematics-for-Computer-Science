@@ -4,7 +4,7 @@ description: 点击标题可以跳转到对于页面
 
 # 目录
 
-## _\*\*\*\*_[_**I 证明**_](https://finit-xu.gitbook.io/msc20180606/i-proofs/introduction)_\*\*\*\*_
+## __[_**I 证明**_](https://finit-xu.gitbook.io/msc20180606/i-proofs/introduction)__
 
 ### [**引言**](https://finit-xu.gitbook.io/msc20180606/i-proofs/introduction)
 
