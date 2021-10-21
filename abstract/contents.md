@@ -4,11 +4,11 @@ description: 点击标题可以跳转到对于页面
 
 # 目录
 
-## __[_**I 证明**_](https://finit-xu.gitbook.io/msc20180606/i-proofs/introduction)__
+## [_**I 证明**_](https://finit-xu.gitbook.io/msc20180606/i-proofs/introduction)
 
 ### [**引言**](https://finit-xu.gitbook.io/msc20180606/i-proofs/introduction)
 
-#### \*\* [**0.1 参考文献**](https://finit-xu.gitbook.io/msc20180606/i-proofs/0.1-references)\*\*
+#### &#x20;   [**0.1 参考文献**](https://finit-xu.gitbook.io/msc20180606/i-proofs/0.1-references)
 
 ### [**第一章 什么是证明**](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof) <a href="zheng-ming-di-yi-zhang-shen-me-shi-zheng-ming" id="zheng-ming-di-yi-zhang-shen-me-shi-zheng-ming"></a>
 
@@ -192,8 +192,8 @@ description: 点击标题可以跳转到对于页面
 * \*\*\*\*[**9.1 整除性**](https://finit-xu.gitbook.io/msc20180606/ii-structures/9-number-theory/9.1-divisibility)
 * \*\*\*\*[**9.2 最大公因子**](https://finit-xu.gitbook.io/msc20180606/ii-structures/9-number-theory/9.2-the-greatest-common-divisor)
 * [**9.3 质数的秘密**](https://finit-xu.gitbook.io/msc20180606/ii-structures/9-number-theory/9.3-prime-mysteries)
-* ****[**9.4 算术基本定理**\
-  ****](https://finit-xu.gitbook.io/msc20180606/ii-structures/9-number-theory/9.4-the-fundamental-theorem-of-arithmetic)****
+* [**9.4 算术基本定理**\
+  **\*\*\*\***](https://finit-xu.gitbook.io/msc20180606/ii-structures/9-number-theory/9.4-the-fundamental-theorem-of-arithmetic)
 
 ### \*\*\*\*[\*\*第十章 有向图和偏序 \*\*](https://finit-xu.gitbook.io/msc20180606/ii-structures/10-directed-graphs-and-partial-orders)
 
