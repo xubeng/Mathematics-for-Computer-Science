@@ -16,7 +16,7 @@
 
 如果你要证明一个命题，那么最好精准地理解命题的意思。为了避免日常用语的歧义和不准确的定义，数学家们非常精确地使用语言，他们通常使用**逻辑表达式**表达命题；逻辑表达式是[第三章](https://finit-xu.gitbook.io/msc20180606/proofs/3-logical-formulas)的主题。
 
-前三章假定读者熟悉一些类似集合、函数的数学概念。[第四章](https://finit-xu.gitbook.io/msc20180606/proofs/4-mathematical-data-types)和[第八章](https://finit-xu.gitbook.io/msc20180606/proofs/8-infinite-sets)更详细地介绍与数学相关的数据类型，检验无穷集证明事物的特殊性质和方法。[第7章](https://finit-xu.gitbook.io/msc20180606/proofs/7-recursive-data-types)继续研究递归定义的数据类型。
+前三章假定读者熟悉一些类似集合、函数的数学概念。[第四章](https://finit-xu.gitbook.io/msc20180606/proofs/4-mathematical-data-types)和[第八章](https://finit-xu.gitbook.io/msc20180606/proofs/8-infinite-sets)更详细地介绍与数学相关的数据类型，检验无穷集证明事物的特殊性质和方法。[第七章](https://finit-xu.gitbook.io/mcs/i-proofs/7-recursive-data-types)继续研究递归定义的数据类型。
 
 {% hint style="info" %}
 (1)事实上，只有科学的失败才可以被实验解释——当实验和预期的表现不一样。但是再多的实验也无法保证下个实验不会失败。因此，科学家们几乎不讨论真理，而是可以精准预测过去的理论、可预测的未来、实验。
