@@ -1,5 +1,5 @@
 ---
-description: 点击标题可以跳转到对于页面
+description: gitbook升级后，原有目录链接已变，暂时先不修改链接，后续寻找规律后再改。
 coverY: 0
 ---
 
@@ -11,7 +11,7 @@ coverY: 0
 
 #### &#x20;   [**0.1 参考文献**](https://finit-xu.gitbook.io/msc20180606/i-proofs/0.1-references)
 
-### [**第一章 什么是证明**](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof) <a href="zheng-ming-di-yi-zhang-shen-me-shi-zheng-ming" id="zheng-ming-di-yi-zhang-shen-me-shi-zheng-ming"></a>
+### [**第一章 什么是证明**](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof) <a href="#zheng-ming-di-yi-zhang-shen-me-shi-zheng-ming" id="zheng-ming-di-yi-zhang-shen-me-shi-zheng-ming"></a>
 
 * [**1.1 命题**](https://finit-xu.gitbook.io/msc20180606/i-proofs/1-what-is-a-proof/1.1-propositions)
 * [**1.2 谓词**](https://finit-xu.gitbook.io/msc20180606/proofs/1-what-is-a-proof/1.2-predicates)
