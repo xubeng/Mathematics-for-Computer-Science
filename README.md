@@ -1,9 +1,8 @@
-## README
+# README
 
+## 一、书籍信息
 
-### 一、书籍信息
-
-#### Mathematics for Computer Science
+### Mathematics for Computer Science
 
 **revised Wednesday 6th June, 2018, 13:43**
 
@@ -21,6 +20,8 @@ Albert R Meyer Department of Electrical Engineering and Computer Science and the
 课程材料
 {% endembed %}
 
+习题答案
+
 {% embed url="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/#" %}
 MIT开放课程
 {% endembed %}
@@ -33,14 +34,14 @@ MIT开放课程
 2010版课程视频
 {% endembed %}
 
-### 二、作者答疑
+## 二、作者答疑
 
 The online question system which interleaves questions with lecture videos is now available on OCW for Spring '15, and online solutions are built in:[http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
 
 \
 A few further solns are avail at [http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2010](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2010).
 
-### 三、翻译项目维护
+## 三、翻译项目维护
 
 翻译项目的Github地址：[https://github.com/xubeng/Mathematics-for-Computer-Science](https://github.com/xubeng/Mathematics-for-Computer-Science)
 
